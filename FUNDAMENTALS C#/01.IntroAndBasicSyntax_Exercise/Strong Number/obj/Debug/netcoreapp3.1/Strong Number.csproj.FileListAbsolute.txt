@@ -1,0 +1,12 @@
+C:\Users\Mariqna\source\repos\IntroAndBasicSyntax_Exercise\Strong Number\bin\Debug\netcoreapp3.1\Strong Number.exe
+C:\Users\Mariqna\source\repos\IntroAndBasicSyntax_Exercise\Strong Number\bin\Debug\netcoreapp3.1\Strong Number.deps.json
+C:\Users\Mariqna\source\repos\IntroAndBasicSyntax_Exercise\Strong Number\bin\Debug\netcoreapp3.1\Strong Number.runtimeconfig.json
+C:\Users\Mariqna\source\repos\IntroAndBasicSyntax_Exercise\Strong Number\bin\Debug\netcoreapp3.1\Strong Number.runtimeconfig.dev.json
+C:\Users\Mariqna\source\repos\IntroAndBasicSyntax_Exercise\Strong Number\bin\Debug\netcoreapp3.1\Strong Number.dll
+C:\Users\Mariqna\source\repos\IntroAndBasicSyntax_Exercise\Strong Number\bin\Debug\netcoreapp3.1\Strong Number.pdb
+C:\Users\Mariqna\source\repos\IntroAndBasicSyntax_Exercise\Strong Number\obj\Debug\netcoreapp3.1\Strong Number.AssemblyInfoInputs.cache
+C:\Users\Mariqna\source\repos\IntroAndBasicSyntax_Exercise\Strong Number\obj\Debug\netcoreapp3.1\Strong Number.AssemblyInfo.cs
+C:\Users\Mariqna\source\repos\IntroAndBasicSyntax_Exercise\Strong Number\obj\Debug\netcoreapp3.1\Strong Number.csproj.CoreCompileInputs.cache
+C:\Users\Mariqna\source\repos\IntroAndBasicSyntax_Exercise\Strong Number\obj\Debug\netcoreapp3.1\Strong Number.dll
+C:\Users\Mariqna\source\repos\IntroAndBasicSyntax_Exercise\Strong Number\obj\Debug\netcoreapp3.1\Strong Number.pdb
+C:\Users\Mariqna\source\repos\IntroAndBasicSyntax_Exercise\Strong Number\obj\Debug\netcoreapp3.1\Strong Number.genruntimeconfig.cache

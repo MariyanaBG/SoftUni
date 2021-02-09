@@ -1,0 +1,13 @@
+C:\Users\Mariqna\source\repos\IntroAndBasicSyntax_Exercise\PadawanEquipment\bin\Debug\netcoreapp3.1\PadawanEquipment.exe
+C:\Users\Mariqna\source\repos\IntroAndBasicSyntax_Exercise\PadawanEquipment\bin\Debug\netcoreapp3.1\PadawanEquipment.deps.json
+C:\Users\Mariqna\source\repos\IntroAndBasicSyntax_Exercise\PadawanEquipment\bin\Debug\netcoreapp3.1\PadawanEquipment.runtimeconfig.json
+C:\Users\Mariqna\source\repos\IntroAndBasicSyntax_Exercise\PadawanEquipment\bin\Debug\netcoreapp3.1\PadawanEquipment.runtimeconfig.dev.json
+C:\Users\Mariqna\source\repos\IntroAndBasicSyntax_Exercise\PadawanEquipment\bin\Debug\netcoreapp3.1\PadawanEquipment.dll
+C:\Users\Mariqna\source\repos\IntroAndBasicSyntax_Exercise\PadawanEquipment\bin\Debug\netcoreapp3.1\PadawanEquipment.pdb
+C:\Users\Mariqna\source\repos\IntroAndBasicSyntax_Exercise\PadawanEquipment\obj\Debug\netcoreapp3.1\PadawanEquipment.csprojAssemblyReference.cache
+C:\Users\Mariqna\source\repos\IntroAndBasicSyntax_Exercise\PadawanEquipment\obj\Debug\netcoreapp3.1\PadawanEquipment.AssemblyInfoInputs.cache
+C:\Users\Mariqna\source\repos\IntroAndBasicSyntax_Exercise\PadawanEquipment\obj\Debug\netcoreapp3.1\PadawanEquipment.AssemblyInfo.cs
+C:\Users\Mariqna\source\repos\IntroAndBasicSyntax_Exercise\PadawanEquipment\obj\Debug\netcoreapp3.1\PadawanEquipment.csproj.CoreCompileInputs.cache
+C:\Users\Mariqna\source\repos\IntroAndBasicSyntax_Exercise\PadawanEquipment\obj\Debug\netcoreapp3.1\PadawanEquipment.dll
+C:\Users\Mariqna\source\repos\IntroAndBasicSyntax_Exercise\PadawanEquipment\obj\Debug\netcoreapp3.1\PadawanEquipment.pdb
+C:\Users\Mariqna\source\repos\IntroAndBasicSyntax_Exercise\PadawanEquipment\obj\Debug\netcoreapp3.1\PadawanEquipment.genruntimeconfig.cache
