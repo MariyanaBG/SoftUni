@@ -1,0 +1,13 @@
+C:\Users\Mariqna\source\repos\IntroAndBasicSyntax_Exercise\Divison\bin\Debug\netcoreapp3.1\Divison.exe
+C:\Users\Mariqna\source\repos\IntroAndBasicSyntax_Exercise\Divison\bin\Debug\netcoreapp3.1\Divison.deps.json
+C:\Users\Mariqna\source\repos\IntroAndBasicSyntax_Exercise\Divison\bin\Debug\netcoreapp3.1\Divison.runtimeconfig.json
+C:\Users\Mariqna\source\repos\IntroAndBasicSyntax_Exercise\Divison\bin\Debug\netcoreapp3.1\Divison.runtimeconfig.dev.json
+C:\Users\Mariqna\source\repos\IntroAndBasicSyntax_Exercise\Divison\bin\Debug\netcoreapp3.1\Divison.dll
+C:\Users\Mariqna\source\repos\IntroAndBasicSyntax_Exercise\Divison\bin\Debug\netcoreapp3.1\Divison.pdb
+C:\Users\Mariqna\source\repos\IntroAndBasicSyntax_Exercise\Divison\obj\Debug\netcoreapp3.1\Divison.csprojAssemblyReference.cache
+C:\Users\Mariqna\source\repos\IntroAndBasicSyntax_Exercise\Divison\obj\Debug\netcoreapp3.1\Divison.AssemblyInfoInputs.cache
+C:\Users\Mariqna\source\repos\IntroAndBasicSyntax_Exercise\Divison\obj\Debug\netcoreapp3.1\Divison.AssemblyInfo.cs
+C:\Users\Mariqna\source\repos\IntroAndBasicSyntax_Exercise\Divison\obj\Debug\netcoreapp3.1\Divison.csproj.CoreCompileInputs.cache
+C:\Users\Mariqna\source\repos\IntroAndBasicSyntax_Exercise\Divison\obj\Debug\netcoreapp3.1\Divison.dll
+C:\Users\Mariqna\source\repos\IntroAndBasicSyntax_Exercise\Divison\obj\Debug\netcoreapp3.1\Divison.pdb
+C:\Users\Mariqna\source\repos\IntroAndBasicSyntax_Exercise\Divison\obj\Debug\netcoreapp3.1\Divison.genruntimeconfig.cache

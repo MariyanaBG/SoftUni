@@ -1,0 +1,13 @@
+C:\Users\Mariqna\source\repos\Data Types and Variables Exercise\DataTypesAndVariablesMoreExercise\DataTypesAndVariablesMoreExercise\BalancedBrackets\bin\Debug\netcoreapp3.1\BalancedBrackets.exe
+C:\Users\Mariqna\source\repos\Data Types and Variables Exercise\DataTypesAndVariablesMoreExercise\DataTypesAndVariablesMoreExercise\BalancedBrackets\bin\Debug\netcoreapp3.1\BalancedBrackets.deps.json
+C:\Users\Mariqna\source\repos\Data Types and Variables Exercise\DataTypesAndVariablesMoreExercise\DataTypesAndVariablesMoreExercise\BalancedBrackets\bin\Debug\netcoreapp3.1\BalancedBrackets.runtimeconfig.json
+C:\Users\Mariqna\source\repos\Data Types and Variables Exercise\DataTypesAndVariablesMoreExercise\DataTypesAndVariablesMoreExercise\BalancedBrackets\bin\Debug\netcoreapp3.1\BalancedBrackets.runtimeconfig.dev.json
+C:\Users\Mariqna\source\repos\Data Types and Variables Exercise\DataTypesAndVariablesMoreExercise\DataTypesAndVariablesMoreExercise\BalancedBrackets\bin\Debug\netcoreapp3.1\BalancedBrackets.dll
+C:\Users\Mariqna\source\repos\Data Types and Variables Exercise\DataTypesAndVariablesMoreExercise\DataTypesAndVariablesMoreExercise\BalancedBrackets\bin\Debug\netcoreapp3.1\BalancedBrackets.pdb
+C:\Users\Mariqna\source\repos\Data Types and Variables Exercise\DataTypesAndVariablesMoreExercise\DataTypesAndVariablesMoreExercise\BalancedBrackets\obj\Debug\netcoreapp3.1\BalancedBrackets.AssemblyInfoInputs.cache
+C:\Users\Mariqna\source\repos\Data Types and Variables Exercise\DataTypesAndVariablesMoreExercise\DataTypesAndVariablesMoreExercise\BalancedBrackets\obj\Debug\netcoreapp3.1\BalancedBrackets.AssemblyInfo.cs
+C:\Users\Mariqna\source\repos\Data Types and Variables Exercise\DataTypesAndVariablesMoreExercise\DataTypesAndVariablesMoreExercise\BalancedBrackets\obj\Debug\netcoreapp3.1\BalancedBrackets.csproj.CoreCompileInputs.cache
+C:\Users\Mariqna\source\repos\Data Types and Variables Exercise\DataTypesAndVariablesMoreExercise\DataTypesAndVariablesMoreExercise\BalancedBrackets\obj\Debug\netcoreapp3.1\BalancedBrackets.dll
+C:\Users\Mariqna\source\repos\Data Types and Variables Exercise\DataTypesAndVariablesMoreExercise\DataTypesAndVariablesMoreExercise\BalancedBrackets\obj\Debug\netcoreapp3.1\BalancedBrackets.pdb
+C:\Users\Mariqna\source\repos\Data Types and Variables Exercise\DataTypesAndVariablesMoreExercise\DataTypesAndVariablesMoreExercise\BalancedBrackets\obj\Debug\netcoreapp3.1\BalancedBrackets.genruntimeconfig.cache
+C:\Users\Mariqna\source\repos\Data Types and Variables Exercise\DataTypesAndVariablesMoreExercise\DataTypesAndVariablesMoreExercise\BalancedBrackets\obj\Debug\netcoreapp3.1\BalancedBrackets.csprojAssemblyReference.cache

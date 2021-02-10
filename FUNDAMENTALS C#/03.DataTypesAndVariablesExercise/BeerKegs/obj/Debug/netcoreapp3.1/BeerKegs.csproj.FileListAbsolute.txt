@@ -1,0 +1,13 @@
+C:\Users\Mariqna\source\repos\Data Types and Variables Exercise\DataTypesAndVariablesExercise\BeerKegs\bin\Debug\netcoreapp3.1\BeerKegs.exe
+C:\Users\Mariqna\source\repos\Data Types and Variables Exercise\DataTypesAndVariablesExercise\BeerKegs\bin\Debug\netcoreapp3.1\BeerKegs.deps.json
+C:\Users\Mariqna\source\repos\Data Types and Variables Exercise\DataTypesAndVariablesExercise\BeerKegs\bin\Debug\netcoreapp3.1\BeerKegs.runtimeconfig.json
+C:\Users\Mariqna\source\repos\Data Types and Variables Exercise\DataTypesAndVariablesExercise\BeerKegs\bin\Debug\netcoreapp3.1\BeerKegs.runtimeconfig.dev.json
+C:\Users\Mariqna\source\repos\Data Types and Variables Exercise\DataTypesAndVariablesExercise\BeerKegs\bin\Debug\netcoreapp3.1\BeerKegs.dll
+C:\Users\Mariqna\source\repos\Data Types and Variables Exercise\DataTypesAndVariablesExercise\BeerKegs\bin\Debug\netcoreapp3.1\BeerKegs.pdb
+C:\Users\Mariqna\source\repos\Data Types and Variables Exercise\DataTypesAndVariablesExercise\BeerKegs\obj\Debug\netcoreapp3.1\BeerKegs.csprojAssemblyReference.cache
+C:\Users\Mariqna\source\repos\Data Types and Variables Exercise\DataTypesAndVariablesExercise\BeerKegs\obj\Debug\netcoreapp3.1\BeerKegs.AssemblyInfoInputs.cache
+C:\Users\Mariqna\source\repos\Data Types and Variables Exercise\DataTypesAndVariablesExercise\BeerKegs\obj\Debug\netcoreapp3.1\BeerKegs.AssemblyInfo.cs
+C:\Users\Mariqna\source\repos\Data Types and Variables Exercise\DataTypesAndVariablesExercise\BeerKegs\obj\Debug\netcoreapp3.1\BeerKegs.csproj.CoreCompileInputs.cache
+C:\Users\Mariqna\source\repos\Data Types and Variables Exercise\DataTypesAndVariablesExercise\BeerKegs\obj\Debug\netcoreapp3.1\BeerKegs.dll
+C:\Users\Mariqna\source\repos\Data Types and Variables Exercise\DataTypesAndVariablesExercise\BeerKegs\obj\Debug\netcoreapp3.1\BeerKegs.pdb
+C:\Users\Mariqna\source\repos\Data Types and Variables Exercise\DataTypesAndVariablesExercise\BeerKegs\obj\Debug\netcoreapp3.1\BeerKegs.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Mariqna\source\repos\Data Types and Variables Lab\Data Types and Variables Lab\bin\Debug\netcoreapp3.1\01.ConvertMetersToKilometers.exe
+C:\Users\Mariqna\source\repos\Data Types and Variables Lab\Data Types and Variables Lab\bin\Debug\netcoreapp3.1\01.ConvertMetersToKilometers.deps.json
+C:\Users\Mariqna\source\repos\Data Types and Variables Lab\Data Types and Variables Lab\bin\Debug\netcoreapp3.1\01.ConvertMetersToKilometers.runtimeconfig.json
+C:\Users\Mariqna\source\repos\Data Types and Variables Lab\Data Types and Variables Lab\bin\Debug\netcoreapp3.1\01.ConvertMetersToKilometers.runtimeconfig.dev.json
+C:\Users\Mariqna\source\repos\Data Types and Variables Lab\Data Types and Variables Lab\bin\Debug\netcoreapp3.1\01.ConvertMetersToKilometers.dll
+C:\Users\Mariqna\source\repos\Data Types and Variables Lab\Data Types and Variables Lab\bin\Debug\netcoreapp3.1\01.ConvertMetersToKilometers.pdb
+C:\Users\Mariqna\source\repos\Data Types and Variables Lab\Data Types and Variables Lab\obj\Debug\netcoreapp3.1\01.ConvertMetersToKilometers.AssemblyInfoInputs.cache
+C:\Users\Mariqna\source\repos\Data Types and Variables Lab\Data Types and Variables Lab\obj\Debug\netcoreapp3.1\01.ConvertMetersToKilometers.AssemblyInfo.cs
+C:\Users\Mariqna\source\repos\Data Types and Variables Lab\Data Types and Variables Lab\obj\Debug\netcoreapp3.1\01.ConvertMetersToKilometers.csproj.CoreCompileInputs.cache
+C:\Users\Mariqna\source\repos\Data Types and Variables Lab\Data Types and Variables Lab\obj\Debug\netcoreapp3.1\01.ConvertMetersToKilometers.dll
+C:\Users\Mariqna\source\repos\Data Types and Variables Lab\Data Types and Variables Lab\obj\Debug\netcoreapp3.1\01.ConvertMetersToKilometers.pdb
+C:\Users\Mariqna\source\repos\Data Types and Variables Lab\Data Types and Variables Lab\obj\Debug\netcoreapp3.1\01.ConvertMetersToKilometers.genruntimeconfig.cache
+C:\Users\Mariqna\source\repos\Data Types and Variables Lab\Data Types and Variables Lab\obj\Debug\netcoreapp3.1\01.ConvertMetersToKilometers.csprojAssemblyReference.cache

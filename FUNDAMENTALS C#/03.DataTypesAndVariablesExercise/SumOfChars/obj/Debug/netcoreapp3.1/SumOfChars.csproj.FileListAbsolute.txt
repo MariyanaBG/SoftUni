@@ -1,0 +1,12 @@
+C:\Users\Mariqna\source\repos\Data Types and Variables Exercise\DataTypesAndVariablesExercise\SumOfChars\bin\Debug\netcoreapp3.1\SumOfChars.exe
+C:\Users\Mariqna\source\repos\Data Types and Variables Exercise\DataTypesAndVariablesExercise\SumOfChars\bin\Debug\netcoreapp3.1\SumOfChars.deps.json
+C:\Users\Mariqna\source\repos\Data Types and Variables Exercise\DataTypesAndVariablesExercise\SumOfChars\bin\Debug\netcoreapp3.1\SumOfChars.runtimeconfig.json
+C:\Users\Mariqna\source\repos\Data Types and Variables Exercise\DataTypesAndVariablesExercise\SumOfChars\bin\Debug\netcoreapp3.1\SumOfChars.runtimeconfig.dev.json
+C:\Users\Mariqna\source\repos\Data Types and Variables Exercise\DataTypesAndVariablesExercise\SumOfChars\bin\Debug\netcoreapp3.1\SumOfChars.dll
+C:\Users\Mariqna\source\repos\Data Types and Variables Exercise\DataTypesAndVariablesExercise\SumOfChars\bin\Debug\netcoreapp3.1\SumOfChars.pdb
+C:\Users\Mariqna\source\repos\Data Types and Variables Exercise\DataTypesAndVariablesExercise\SumOfChars\obj\Debug\netcoreapp3.1\SumOfChars.AssemblyInfoInputs.cache
+C:\Users\Mariqna\source\repos\Data Types and Variables Exercise\DataTypesAndVariablesExercise\SumOfChars\obj\Debug\netcoreapp3.1\SumOfChars.AssemblyInfo.cs
+C:\Users\Mariqna\source\repos\Data Types and Variables Exercise\DataTypesAndVariablesExercise\SumOfChars\obj\Debug\netcoreapp3.1\SumOfChars.csproj.CoreCompileInputs.cache
+C:\Users\Mariqna\source\repos\Data Types and Variables Exercise\DataTypesAndVariablesExercise\SumOfChars\obj\Debug\netcoreapp3.1\SumOfChars.dll
+C:\Users\Mariqna\source\repos\Data Types and Variables Exercise\DataTypesAndVariablesExercise\SumOfChars\obj\Debug\netcoreapp3.1\SumOfChars.pdb
+C:\Users\Mariqna\source\repos\Data Types and Variables Exercise\DataTypesAndVariablesExercise\SumOfChars\obj\Debug\netcoreapp3.1\SumOfChars.genruntimeconfig.cache

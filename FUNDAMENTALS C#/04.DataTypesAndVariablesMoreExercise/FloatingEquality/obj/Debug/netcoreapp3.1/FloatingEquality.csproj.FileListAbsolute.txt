@@ -1,0 +1,13 @@
+C:\Users\Mariqna\source\repos\Data Types and Variables Exercise\DataTypesAndVariablesMoreExercise\DataTypesAndVariablesMoreExercise\FloatingEquality\bin\Debug\netcoreapp3.1\FloatingEquality.exe
+C:\Users\Mariqna\source\repos\Data Types and Variables Exercise\DataTypesAndVariablesMoreExercise\DataTypesAndVariablesMoreExercise\FloatingEquality\bin\Debug\netcoreapp3.1\FloatingEquality.deps.json
+C:\Users\Mariqna\source\repos\Data Types and Variables Exercise\DataTypesAndVariablesMoreExercise\DataTypesAndVariablesMoreExercise\FloatingEquality\bin\Debug\netcoreapp3.1\FloatingEquality.runtimeconfig.json
+C:\Users\Mariqna\source\repos\Data Types and Variables Exercise\DataTypesAndVariablesMoreExercise\DataTypesAndVariablesMoreExercise\FloatingEquality\bin\Debug\netcoreapp3.1\FloatingEquality.runtimeconfig.dev.json
+C:\Users\Mariqna\source\repos\Data Types and Variables Exercise\DataTypesAndVariablesMoreExercise\DataTypesAndVariablesMoreExercise\FloatingEquality\bin\Debug\netcoreapp3.1\FloatingEquality.dll
+C:\Users\Mariqna\source\repos\Data Types and Variables Exercise\DataTypesAndVariablesMoreExercise\DataTypesAndVariablesMoreExercise\FloatingEquality\bin\Debug\netcoreapp3.1\FloatingEquality.pdb
+C:\Users\Mariqna\source\repos\Data Types and Variables Exercise\DataTypesAndVariablesMoreExercise\DataTypesAndVariablesMoreExercise\FloatingEquality\obj\Debug\netcoreapp3.1\FloatingEquality.csprojAssemblyReference.cache
+C:\Users\Mariqna\source\repos\Data Types and Variables Exercise\DataTypesAndVariablesMoreExercise\DataTypesAndVariablesMoreExercise\FloatingEquality\obj\Debug\netcoreapp3.1\FloatingEquality.AssemblyInfoInputs.cache
+C:\Users\Mariqna\source\repos\Data Types and Variables Exercise\DataTypesAndVariablesMoreExercise\DataTypesAndVariablesMoreExercise\FloatingEquality\obj\Debug\netcoreapp3.1\FloatingEquality.AssemblyInfo.cs
+C:\Users\Mariqna\source\repos\Data Types and Variables Exercise\DataTypesAndVariablesMoreExercise\DataTypesAndVariablesMoreExercise\FloatingEquality\obj\Debug\netcoreapp3.1\FloatingEquality.csproj.CoreCompileInputs.cache
+C:\Users\Mariqna\source\repos\Data Types and Variables Exercise\DataTypesAndVariablesMoreExercise\DataTypesAndVariablesMoreExercise\FloatingEquality\obj\Debug\netcoreapp3.1\FloatingEquality.dll
+C:\Users\Mariqna\source\repos\Data Types and Variables Exercise\DataTypesAndVariablesMoreExercise\DataTypesAndVariablesMoreExercise\FloatingEquality\obj\Debug\netcoreapp3.1\FloatingEquality.pdb
+C:\Users\Mariqna\source\repos\Data Types and Variables Exercise\DataTypesAndVariablesMoreExercise\DataTypesAndVariablesMoreExercise\FloatingEquality\obj\Debug\netcoreapp3.1\FloatingEquality.genruntimeconfig.cache

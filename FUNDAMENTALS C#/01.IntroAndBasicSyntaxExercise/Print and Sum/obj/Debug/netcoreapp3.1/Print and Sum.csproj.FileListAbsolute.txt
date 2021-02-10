@@ -1,0 +1,12 @@
+C:\Users\Mariqna\source\repos\IntroAndBasicSyntax_Exercise\Print and Sum\bin\Debug\netcoreapp3.1\Print and Sum.exe
+C:\Users\Mariqna\source\repos\IntroAndBasicSyntax_Exercise\Print and Sum\bin\Debug\netcoreapp3.1\Print and Sum.deps.json
+C:\Users\Mariqna\source\repos\IntroAndBasicSyntax_Exercise\Print and Sum\bin\Debug\netcoreapp3.1\Print and Sum.runtimeconfig.json
+C:\Users\Mariqna\source\repos\IntroAndBasicSyntax_Exercise\Print and Sum\bin\Debug\netcoreapp3.1\Print and Sum.runtimeconfig.dev.json
+C:\Users\Mariqna\source\repos\IntroAndBasicSyntax_Exercise\Print and Sum\bin\Debug\netcoreapp3.1\Print and Sum.dll
+C:\Users\Mariqna\source\repos\IntroAndBasicSyntax_Exercise\Print and Sum\bin\Debug\netcoreapp3.1\Print and Sum.pdb
+C:\Users\Mariqna\source\repos\IntroAndBasicSyntax_Exercise\Print and Sum\obj\Debug\netcoreapp3.1\Print and Sum.AssemblyInfoInputs.cache
+C:\Users\Mariqna\source\repos\IntroAndBasicSyntax_Exercise\Print and Sum\obj\Debug\netcoreapp3.1\Print and Sum.AssemblyInfo.cs
+C:\Users\Mariqna\source\repos\IntroAndBasicSyntax_Exercise\Print and Sum\obj\Debug\netcoreapp3.1\Print and Sum.csproj.CoreCompileInputs.cache
+C:\Users\Mariqna\source\repos\IntroAndBasicSyntax_Exercise\Print and Sum\obj\Debug\netcoreapp3.1\Print and Sum.dll
+C:\Users\Mariqna\source\repos\IntroAndBasicSyntax_Exercise\Print and Sum\obj\Debug\netcoreapp3.1\Print and Sum.pdb
+C:\Users\Mariqna\source\repos\IntroAndBasicSyntax_Exercise\Print and Sum\obj\Debug\netcoreapp3.1\Print and Sum.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Mariqna\source\repos\Data Types and Variables Exercise\DataTypesAndVariablesExercise\TriplesOfLatinLetters\bin\Debug\netcoreapp3.1\TriplesOfLatinLetters.exe
+C:\Users\Mariqna\source\repos\Data Types and Variables Exercise\DataTypesAndVariablesExercise\TriplesOfLatinLetters\bin\Debug\netcoreapp3.1\TriplesOfLatinLetters.deps.json
+C:\Users\Mariqna\source\repos\Data Types and Variables Exercise\DataTypesAndVariablesExercise\TriplesOfLatinLetters\bin\Debug\netcoreapp3.1\TriplesOfLatinLetters.runtimeconfig.json
+C:\Users\Mariqna\source\repos\Data Types and Variables Exercise\DataTypesAndVariablesExercise\TriplesOfLatinLetters\bin\Debug\netcoreapp3.1\TriplesOfLatinLetters.runtimeconfig.dev.json
+C:\Users\Mariqna\source\repos\Data Types and Variables Exercise\DataTypesAndVariablesExercise\TriplesOfLatinLetters\bin\Debug\netcoreapp3.1\TriplesOfLatinLetters.dll
+C:\Users\Mariqna\source\repos\Data Types and Variables Exercise\DataTypesAndVariablesExercise\TriplesOfLatinLetters\bin\Debug\netcoreapp3.1\TriplesOfLatinLetters.pdb
+C:\Users\Mariqna\source\repos\Data Types and Variables Exercise\DataTypesAndVariablesExercise\TriplesOfLatinLetters\obj\Debug\netcoreapp3.1\TriplesOfLatinLetters.AssemblyInfoInputs.cache
+C:\Users\Mariqna\source\repos\Data Types and Variables Exercise\DataTypesAndVariablesExercise\TriplesOfLatinLetters\obj\Debug\netcoreapp3.1\TriplesOfLatinLetters.AssemblyInfo.cs
+C:\Users\Mariqna\source\repos\Data Types and Variables Exercise\DataTypesAndVariablesExercise\TriplesOfLatinLetters\obj\Debug\netcoreapp3.1\TriplesOfLatinLetters.csproj.CoreCompileInputs.cache
+C:\Users\Mariqna\source\repos\Data Types and Variables Exercise\DataTypesAndVariablesExercise\TriplesOfLatinLetters\obj\Debug\netcoreapp3.1\TriplesOfLatinLetters.dll
+C:\Users\Mariqna\source\repos\Data Types and Variables Exercise\DataTypesAndVariablesExercise\TriplesOfLatinLetters\obj\Debug\netcoreapp3.1\TriplesOfLatinLetters.pdb
+C:\Users\Mariqna\source\repos\Data Types and Variables Exercise\DataTypesAndVariablesExercise\TriplesOfLatinLetters\obj\Debug\netcoreapp3.1\TriplesOfLatinLetters.genruntimeconfig.cache
+C:\Users\Mariqna\source\repos\Data Types and Variables Exercise\DataTypesAndVariablesExercise\TriplesOfLatinLetters\obj\Debug\netcoreapp3.1\TriplesOfLatinLetters.csprojAssemblyReference.cache

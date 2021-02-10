@@ -1,0 +1,13 @@
+C:\Users\Mariqna\source\repos\Data Types and Variables Exercise\DataTypesAndVariablesExercise\DataTypesAndVariablesExercise\bin\Debug\netcoreapp3.1\DataTypesAndVariablesExercise.exe
+C:\Users\Mariqna\source\repos\Data Types and Variables Exercise\DataTypesAndVariablesExercise\DataTypesAndVariablesExercise\bin\Debug\netcoreapp3.1\DataTypesAndVariablesExercise.deps.json
+C:\Users\Mariqna\source\repos\Data Types and Variables Exercise\DataTypesAndVariablesExercise\DataTypesAndVariablesExercise\bin\Debug\netcoreapp3.1\DataTypesAndVariablesExercise.runtimeconfig.json
+C:\Users\Mariqna\source\repos\Data Types and Variables Exercise\DataTypesAndVariablesExercise\DataTypesAndVariablesExercise\bin\Debug\netcoreapp3.1\DataTypesAndVariablesExercise.runtimeconfig.dev.json
+C:\Users\Mariqna\source\repos\Data Types and Variables Exercise\DataTypesAndVariablesExercise\DataTypesAndVariablesExercise\bin\Debug\netcoreapp3.1\DataTypesAndVariablesExercise.dll
+C:\Users\Mariqna\source\repos\Data Types and Variables Exercise\DataTypesAndVariablesExercise\DataTypesAndVariablesExercise\bin\Debug\netcoreapp3.1\DataTypesAndVariablesExercise.pdb
+C:\Users\Mariqna\source\repos\Data Types and Variables Exercise\DataTypesAndVariablesExercise\DataTypesAndVariablesExercise\obj\Debug\netcoreapp3.1\DataTypesAndVariablesExercise.csprojAssemblyReference.cache
+C:\Users\Mariqna\source\repos\Data Types and Variables Exercise\DataTypesAndVariablesExercise\DataTypesAndVariablesExercise\obj\Debug\netcoreapp3.1\DataTypesAndVariablesExercise.AssemblyInfoInputs.cache
+C:\Users\Mariqna\source\repos\Data Types and Variables Exercise\DataTypesAndVariablesExercise\DataTypesAndVariablesExercise\obj\Debug\netcoreapp3.1\DataTypesAndVariablesExercise.AssemblyInfo.cs
+C:\Users\Mariqna\source\repos\Data Types and Variables Exercise\DataTypesAndVariablesExercise\DataTypesAndVariablesExercise\obj\Debug\netcoreapp3.1\DataTypesAndVariablesExercise.csproj.CoreCompileInputs.cache
+C:\Users\Mariqna\source\repos\Data Types and Variables Exercise\DataTypesAndVariablesExercise\DataTypesAndVariablesExercise\obj\Debug\netcoreapp3.1\DataTypesAndVariablesExercise.dll
+C:\Users\Mariqna\source\repos\Data Types and Variables Exercise\DataTypesAndVariablesExercise\DataTypesAndVariablesExercise\obj\Debug\netcoreapp3.1\DataTypesAndVariablesExercise.pdb
+C:\Users\Mariqna\source\repos\Data Types and Variables Exercise\DataTypesAndVariablesExercise\DataTypesAndVariablesExercise\obj\Debug\netcoreapp3.1\DataTypesAndVariablesExercise.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\Mariqna\source\repos\Data Types and Variables Exercise\DataTypesAndVariablesMoreExercise\DataTypesAndVariablesMoreExercise\DecryptingMessages\bin\Debug\netcoreapp3.1\DecryptingMessages.exe
+C:\Users\Mariqna\source\repos\Data Types and Variables Exercise\DataTypesAndVariablesMoreExercise\DataTypesAndVariablesMoreExercise\DecryptingMessages\bin\Debug\netcoreapp3.1\DecryptingMessages.deps.json
+C:\Users\Mariqna\source\repos\Data Types and Variables Exercise\DataTypesAndVariablesMoreExercise\DataTypesAndVariablesMoreExercise\DecryptingMessages\bin\Debug\netcoreapp3.1\DecryptingMessages.runtimeconfig.json
+C:\Users\Mariqna\source\repos\Data Types and Variables Exercise\DataTypesAndVariablesMoreExercise\DataTypesAndVariablesMoreExercise\DecryptingMessages\bin\Debug\netcoreapp3.1\DecryptingMessages.runtimeconfig.dev.json
+C:\Users\Mariqna\source\repos\Data Types and Variables Exercise\DataTypesAndVariablesMoreExercise\DataTypesAndVariablesMoreExercise\DecryptingMessages\bin\Debug\netcoreapp3.1\DecryptingMessages.dll
+C:\Users\Mariqna\source\repos\Data Types and Variables Exercise\DataTypesAndVariablesMoreExercise\DataTypesAndVariablesMoreExercise\DecryptingMessages\bin\Debug\netcoreapp3.1\DecryptingMessages.pdb
+C:\Users\Mariqna\source\repos\Data Types and Variables Exercise\DataTypesAndVariablesMoreExercise\DataTypesAndVariablesMoreExercise\DecryptingMessages\obj\Debug\netcoreapp3.1\DecryptingMessages.AssemblyInfoInputs.cache
+C:\Users\Mariqna\source\repos\Data Types and Variables Exercise\DataTypesAndVariablesMoreExercise\DataTypesAndVariablesMoreExercise\DecryptingMessages\obj\Debug\netcoreapp3.1\DecryptingMessages.AssemblyInfo.cs
+C:\Users\Mariqna\source\repos\Data Types and Variables Exercise\DataTypesAndVariablesMoreExercise\DataTypesAndVariablesMoreExercise\DecryptingMessages\obj\Debug\netcoreapp3.1\DecryptingMessages.csproj.CoreCompileInputs.cache
+C:\Users\Mariqna\source\repos\Data Types and Variables Exercise\DataTypesAndVariablesMoreExercise\DataTypesAndVariablesMoreExercise\DecryptingMessages\obj\Debug\netcoreapp3.1\DecryptingMessages.dll
+C:\Users\Mariqna\source\repos\Data Types and Variables Exercise\DataTypesAndVariablesMoreExercise\DataTypesAndVariablesMoreExercise\DecryptingMessages\obj\Debug\netcoreapp3.1\DecryptingMessages.pdb
+C:\Users\Mariqna\source\repos\Data Types and Variables Exercise\DataTypesAndVariablesMoreExercise\DataTypesAndVariablesMoreExercise\DecryptingMessages\obj\Debug\netcoreapp3.1\DecryptingMessages.genruntimeconfig.cache
