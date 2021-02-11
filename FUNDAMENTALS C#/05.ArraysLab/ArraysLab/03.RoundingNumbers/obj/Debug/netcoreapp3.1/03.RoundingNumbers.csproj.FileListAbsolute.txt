@@ -1,0 +1,13 @@
+D:\SOFTUNI\FUNDAMENTALS C#\05.ArraysLab\ArraysLab\03.RoundingNumbers\bin\Debug\netcoreapp3.1\03.RoundingNumbers.exe
+D:\SOFTUNI\FUNDAMENTALS C#\05.ArraysLab\ArraysLab\03.RoundingNumbers\bin\Debug\netcoreapp3.1\03.RoundingNumbers.deps.json
+D:\SOFTUNI\FUNDAMENTALS C#\05.ArraysLab\ArraysLab\03.RoundingNumbers\bin\Debug\netcoreapp3.1\03.RoundingNumbers.runtimeconfig.json
+D:\SOFTUNI\FUNDAMENTALS C#\05.ArraysLab\ArraysLab\03.RoundingNumbers\bin\Debug\netcoreapp3.1\03.RoundingNumbers.runtimeconfig.dev.json
+D:\SOFTUNI\FUNDAMENTALS C#\05.ArraysLab\ArraysLab\03.RoundingNumbers\bin\Debug\netcoreapp3.1\03.RoundingNumbers.dll
+D:\SOFTUNI\FUNDAMENTALS C#\05.ArraysLab\ArraysLab\03.RoundingNumbers\bin\Debug\netcoreapp3.1\03.RoundingNumbers.pdb
+D:\SOFTUNI\FUNDAMENTALS C#\05.ArraysLab\ArraysLab\03.RoundingNumbers\obj\Debug\netcoreapp3.1\03.RoundingNumbers.csprojAssemblyReference.cache
+D:\SOFTUNI\FUNDAMENTALS C#\05.ArraysLab\ArraysLab\03.RoundingNumbers\obj\Debug\netcoreapp3.1\03.RoundingNumbers.AssemblyInfoInputs.cache
+D:\SOFTUNI\FUNDAMENTALS C#\05.ArraysLab\ArraysLab\03.RoundingNumbers\obj\Debug\netcoreapp3.1\03.RoundingNumbers.AssemblyInfo.cs
+D:\SOFTUNI\FUNDAMENTALS C#\05.ArraysLab\ArraysLab\03.RoundingNumbers\obj\Debug\netcoreapp3.1\03.RoundingNumbers.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\FUNDAMENTALS C#\05.ArraysLab\ArraysLab\03.RoundingNumbers\obj\Debug\netcoreapp3.1\03.RoundingNumbers.dll
+D:\SOFTUNI\FUNDAMENTALS C#\05.ArraysLab\ArraysLab\03.RoundingNumbers\obj\Debug\netcoreapp3.1\03.RoundingNumbers.pdb
+D:\SOFTUNI\FUNDAMENTALS C#\05.ArraysLab\ArraysLab\03.RoundingNumbers\obj\Debug\netcoreapp3.1\03.RoundingNumbers.genruntimeconfig.cache

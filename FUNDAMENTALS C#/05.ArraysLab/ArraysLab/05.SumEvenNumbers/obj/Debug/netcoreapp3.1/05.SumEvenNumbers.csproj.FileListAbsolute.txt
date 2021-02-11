@@ -1,0 +1,12 @@
+D:\SOFTUNI\FUNDAMENTALS C#\05.ArraysLab\ArraysLab\05.SumEvenNumbers\bin\Debug\netcoreapp3.1\05.SumEvenNumbers.exe
+D:\SOFTUNI\FUNDAMENTALS C#\05.ArraysLab\ArraysLab\05.SumEvenNumbers\bin\Debug\netcoreapp3.1\05.SumEvenNumbers.deps.json
+D:\SOFTUNI\FUNDAMENTALS C#\05.ArraysLab\ArraysLab\05.SumEvenNumbers\bin\Debug\netcoreapp3.1\05.SumEvenNumbers.runtimeconfig.json
+D:\SOFTUNI\FUNDAMENTALS C#\05.ArraysLab\ArraysLab\05.SumEvenNumbers\bin\Debug\netcoreapp3.1\05.SumEvenNumbers.runtimeconfig.dev.json
+D:\SOFTUNI\FUNDAMENTALS C#\05.ArraysLab\ArraysLab\05.SumEvenNumbers\bin\Debug\netcoreapp3.1\05.SumEvenNumbers.dll
+D:\SOFTUNI\FUNDAMENTALS C#\05.ArraysLab\ArraysLab\05.SumEvenNumbers\bin\Debug\netcoreapp3.1\05.SumEvenNumbers.pdb
+D:\SOFTUNI\FUNDAMENTALS C#\05.ArraysLab\ArraysLab\05.SumEvenNumbers\obj\Debug\netcoreapp3.1\05.SumEvenNumbers.AssemblyInfoInputs.cache
+D:\SOFTUNI\FUNDAMENTALS C#\05.ArraysLab\ArraysLab\05.SumEvenNumbers\obj\Debug\netcoreapp3.1\05.SumEvenNumbers.AssemblyInfo.cs
+D:\SOFTUNI\FUNDAMENTALS C#\05.ArraysLab\ArraysLab\05.SumEvenNumbers\obj\Debug\netcoreapp3.1\05.SumEvenNumbers.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\FUNDAMENTALS C#\05.ArraysLab\ArraysLab\05.SumEvenNumbers\obj\Debug\netcoreapp3.1\05.SumEvenNumbers.dll
+D:\SOFTUNI\FUNDAMENTALS C#\05.ArraysLab\ArraysLab\05.SumEvenNumbers\obj\Debug\netcoreapp3.1\05.SumEvenNumbers.pdb
+D:\SOFTUNI\FUNDAMENTALS C#\05.ArraysLab\ArraysLab\05.SumEvenNumbers\obj\Debug\netcoreapp3.1\05.SumEvenNumbers.genruntimeconfig.cache
