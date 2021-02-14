@@ -1,0 +1,12 @@
+D:\SOFTUNI\FUNDAMENTALS C#\06.ArrayExercise\05.TopIntegers\bin\Debug\netcoreapp3.1\05.TopIntegers.exe
+D:\SOFTUNI\FUNDAMENTALS C#\06.ArrayExercise\05.TopIntegers\bin\Debug\netcoreapp3.1\05.TopIntegers.deps.json
+D:\SOFTUNI\FUNDAMENTALS C#\06.ArrayExercise\05.TopIntegers\bin\Debug\netcoreapp3.1\05.TopIntegers.runtimeconfig.json
+D:\SOFTUNI\FUNDAMENTALS C#\06.ArrayExercise\05.TopIntegers\bin\Debug\netcoreapp3.1\05.TopIntegers.runtimeconfig.dev.json
+D:\SOFTUNI\FUNDAMENTALS C#\06.ArrayExercise\05.TopIntegers\bin\Debug\netcoreapp3.1\05.TopIntegers.dll
+D:\SOFTUNI\FUNDAMENTALS C#\06.ArrayExercise\05.TopIntegers\bin\Debug\netcoreapp3.1\05.TopIntegers.pdb
+D:\SOFTUNI\FUNDAMENTALS C#\06.ArrayExercise\05.TopIntegers\obj\Debug\netcoreapp3.1\05.TopIntegers.AssemblyInfoInputs.cache
+D:\SOFTUNI\FUNDAMENTALS C#\06.ArrayExercise\05.TopIntegers\obj\Debug\netcoreapp3.1\05.TopIntegers.AssemblyInfo.cs
+D:\SOFTUNI\FUNDAMENTALS C#\06.ArrayExercise\05.TopIntegers\obj\Debug\netcoreapp3.1\05.TopIntegers.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\FUNDAMENTALS C#\06.ArrayExercise\05.TopIntegers\obj\Debug\netcoreapp3.1\05.TopIntegers.dll
+D:\SOFTUNI\FUNDAMENTALS C#\06.ArrayExercise\05.TopIntegers\obj\Debug\netcoreapp3.1\05.TopIntegers.pdb
+D:\SOFTUNI\FUNDAMENTALS C#\06.ArrayExercise\05.TopIntegers\obj\Debug\netcoreapp3.1\05.TopIntegers.genruntimeconfig.cache

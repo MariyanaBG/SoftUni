@@ -1,0 +1,12 @@
+D:\SOFTUNI\FUNDAMENTALS C#\06.ArrayExercise\02.CommonElements\bin\Debug\netcoreapp3.1\02.CommonElements.exe
+D:\SOFTUNI\FUNDAMENTALS C#\06.ArrayExercise\02.CommonElements\bin\Debug\netcoreapp3.1\02.CommonElements.deps.json
+D:\SOFTUNI\FUNDAMENTALS C#\06.ArrayExercise\02.CommonElements\bin\Debug\netcoreapp3.1\02.CommonElements.runtimeconfig.json
+D:\SOFTUNI\FUNDAMENTALS C#\06.ArrayExercise\02.CommonElements\bin\Debug\netcoreapp3.1\02.CommonElements.runtimeconfig.dev.json
+D:\SOFTUNI\FUNDAMENTALS C#\06.ArrayExercise\02.CommonElements\bin\Debug\netcoreapp3.1\02.CommonElements.dll
+D:\SOFTUNI\FUNDAMENTALS C#\06.ArrayExercise\02.CommonElements\bin\Debug\netcoreapp3.1\02.CommonElements.pdb
+D:\SOFTUNI\FUNDAMENTALS C#\06.ArrayExercise\02.CommonElements\obj\Debug\netcoreapp3.1\02.CommonElements.AssemblyInfoInputs.cache
+D:\SOFTUNI\FUNDAMENTALS C#\06.ArrayExercise\02.CommonElements\obj\Debug\netcoreapp3.1\02.CommonElements.AssemblyInfo.cs
+D:\SOFTUNI\FUNDAMENTALS C#\06.ArrayExercise\02.CommonElements\obj\Debug\netcoreapp3.1\02.CommonElements.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\FUNDAMENTALS C#\06.ArrayExercise\02.CommonElements\obj\Debug\netcoreapp3.1\02.CommonElements.dll
+D:\SOFTUNI\FUNDAMENTALS C#\06.ArrayExercise\02.CommonElements\obj\Debug\netcoreapp3.1\02.CommonElements.pdb
+D:\SOFTUNI\FUNDAMENTALS C#\06.ArrayExercise\02.CommonElements\obj\Debug\netcoreapp3.1\02.CommonElements.genruntimeconfig.cache

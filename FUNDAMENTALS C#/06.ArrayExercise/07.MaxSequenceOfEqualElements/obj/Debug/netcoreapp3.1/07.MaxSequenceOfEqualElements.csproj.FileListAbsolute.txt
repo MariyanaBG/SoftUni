@@ -1,0 +1,13 @@
+D:\SOFTUNI\FUNDAMENTALS C#\06.ArrayExercise\07.MaxSequenceOfEqualElements\bin\Debug\netcoreapp3.1\07.MaxSequenceOfEqualElements.exe
+D:\SOFTUNI\FUNDAMENTALS C#\06.ArrayExercise\07.MaxSequenceOfEqualElements\bin\Debug\netcoreapp3.1\07.MaxSequenceOfEqualElements.deps.json
+D:\SOFTUNI\FUNDAMENTALS C#\06.ArrayExercise\07.MaxSequenceOfEqualElements\bin\Debug\netcoreapp3.1\07.MaxSequenceOfEqualElements.runtimeconfig.json
+D:\SOFTUNI\FUNDAMENTALS C#\06.ArrayExercise\07.MaxSequenceOfEqualElements\bin\Debug\netcoreapp3.1\07.MaxSequenceOfEqualElements.runtimeconfig.dev.json
+D:\SOFTUNI\FUNDAMENTALS C#\06.ArrayExercise\07.MaxSequenceOfEqualElements\bin\Debug\netcoreapp3.1\07.MaxSequenceOfEqualElements.dll
+D:\SOFTUNI\FUNDAMENTALS C#\06.ArrayExercise\07.MaxSequenceOfEqualElements\bin\Debug\netcoreapp3.1\07.MaxSequenceOfEqualElements.pdb
+D:\SOFTUNI\FUNDAMENTALS C#\06.ArrayExercise\07.MaxSequenceOfEqualElements\obj\Debug\netcoreapp3.1\07.MaxSequenceOfEqualElements.csprojAssemblyReference.cache
+D:\SOFTUNI\FUNDAMENTALS C#\06.ArrayExercise\07.MaxSequenceOfEqualElements\obj\Debug\netcoreapp3.1\07.MaxSequenceOfEqualElements.AssemblyInfoInputs.cache
+D:\SOFTUNI\FUNDAMENTALS C#\06.ArrayExercise\07.MaxSequenceOfEqualElements\obj\Debug\netcoreapp3.1\07.MaxSequenceOfEqualElements.AssemblyInfo.cs
+D:\SOFTUNI\FUNDAMENTALS C#\06.ArrayExercise\07.MaxSequenceOfEqualElements\obj\Debug\netcoreapp3.1\07.MaxSequenceOfEqualElements.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\FUNDAMENTALS C#\06.ArrayExercise\07.MaxSequenceOfEqualElements\obj\Debug\netcoreapp3.1\07.MaxSequenceOfEqualElements.dll
+D:\SOFTUNI\FUNDAMENTALS C#\06.ArrayExercise\07.MaxSequenceOfEqualElements\obj\Debug\netcoreapp3.1\07.MaxSequenceOfEqualElements.pdb
+D:\SOFTUNI\FUNDAMENTALS C#\06.ArrayExercise\07.MaxSequenceOfEqualElements\obj\Debug\netcoreapp3.1\07.MaxSequenceOfEqualElements.genruntimeconfig.cache

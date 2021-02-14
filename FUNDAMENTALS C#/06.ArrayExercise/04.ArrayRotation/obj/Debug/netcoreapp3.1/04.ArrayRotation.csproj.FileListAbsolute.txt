@@ -1,0 +1,13 @@
+D:\SOFTUNI\FUNDAMENTALS C#\06.ArrayExercise\04.ArrayRotation\obj\Debug\netcoreapp3.1\04.ArrayRotation.AssemblyInfoInputs.cache
+D:\SOFTUNI\FUNDAMENTALS C#\06.ArrayExercise\04.ArrayRotation\obj\Debug\netcoreapp3.1\04.ArrayRotation.AssemblyInfo.cs
+D:\SOFTUNI\FUNDAMENTALS C#\06.ArrayExercise\04.ArrayRotation\obj\Debug\netcoreapp3.1\04.ArrayRotation.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\FUNDAMENTALS C#\06.ArrayExercise\04.ArrayRotation\bin\Debug\netcoreapp3.1\04.ArrayRotation.exe
+D:\SOFTUNI\FUNDAMENTALS C#\06.ArrayExercise\04.ArrayRotation\bin\Debug\netcoreapp3.1\04.ArrayRotation.deps.json
+D:\SOFTUNI\FUNDAMENTALS C#\06.ArrayExercise\04.ArrayRotation\bin\Debug\netcoreapp3.1\04.ArrayRotation.runtimeconfig.json
+D:\SOFTUNI\FUNDAMENTALS C#\06.ArrayExercise\04.ArrayRotation\bin\Debug\netcoreapp3.1\04.ArrayRotation.runtimeconfig.dev.json
+D:\SOFTUNI\FUNDAMENTALS C#\06.ArrayExercise\04.ArrayRotation\bin\Debug\netcoreapp3.1\04.ArrayRotation.dll
+D:\SOFTUNI\FUNDAMENTALS C#\06.ArrayExercise\04.ArrayRotation\bin\Debug\netcoreapp3.1\04.ArrayRotation.pdb
+D:\SOFTUNI\FUNDAMENTALS C#\06.ArrayExercise\04.ArrayRotation\obj\Debug\netcoreapp3.1\04.ArrayRotation.dll
+D:\SOFTUNI\FUNDAMENTALS C#\06.ArrayExercise\04.ArrayRotation\obj\Debug\netcoreapp3.1\04.ArrayRotation.pdb
+D:\SOFTUNI\FUNDAMENTALS C#\06.ArrayExercise\04.ArrayRotation\obj\Debug\netcoreapp3.1\04.ArrayRotation.genruntimeconfig.cache
+D:\SOFTUNI\FUNDAMENTALS C#\06.ArrayExercise\04.ArrayRotation\obj\Debug\netcoreapp3.1\04.ArrayRotation.csprojAssemblyReference.cache
