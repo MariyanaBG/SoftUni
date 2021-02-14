@@ -1,0 +1,13 @@
+D:\SOFTUNI\FUNDAMENTALS C#\07.ArrayMoreExercise\ArrayMoreExercise\02.PascalTriangle\bin\Debug\netcoreapp3.1\02.PascalTriangle.exe
+D:\SOFTUNI\FUNDAMENTALS C#\07.ArrayMoreExercise\ArrayMoreExercise\02.PascalTriangle\bin\Debug\netcoreapp3.1\02.PascalTriangle.deps.json
+D:\SOFTUNI\FUNDAMENTALS C#\07.ArrayMoreExercise\ArrayMoreExercise\02.PascalTriangle\bin\Debug\netcoreapp3.1\02.PascalTriangle.runtimeconfig.json
+D:\SOFTUNI\FUNDAMENTALS C#\07.ArrayMoreExercise\ArrayMoreExercise\02.PascalTriangle\bin\Debug\netcoreapp3.1\02.PascalTriangle.runtimeconfig.dev.json
+D:\SOFTUNI\FUNDAMENTALS C#\07.ArrayMoreExercise\ArrayMoreExercise\02.PascalTriangle\bin\Debug\netcoreapp3.1\02.PascalTriangle.dll
+D:\SOFTUNI\FUNDAMENTALS C#\07.ArrayMoreExercise\ArrayMoreExercise\02.PascalTriangle\bin\Debug\netcoreapp3.1\02.PascalTriangle.pdb
+D:\SOFTUNI\FUNDAMENTALS C#\07.ArrayMoreExercise\ArrayMoreExercise\02.PascalTriangle\obj\Debug\netcoreapp3.1\02.PascalTriangle.csprojAssemblyReference.cache
+D:\SOFTUNI\FUNDAMENTALS C#\07.ArrayMoreExercise\ArrayMoreExercise\02.PascalTriangle\obj\Debug\netcoreapp3.1\02.PascalTriangle.AssemblyInfoInputs.cache
+D:\SOFTUNI\FUNDAMENTALS C#\07.ArrayMoreExercise\ArrayMoreExercise\02.PascalTriangle\obj\Debug\netcoreapp3.1\02.PascalTriangle.AssemblyInfo.cs
+D:\SOFTUNI\FUNDAMENTALS C#\07.ArrayMoreExercise\ArrayMoreExercise\02.PascalTriangle\obj\Debug\netcoreapp3.1\02.PascalTriangle.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\FUNDAMENTALS C#\07.ArrayMoreExercise\ArrayMoreExercise\02.PascalTriangle\obj\Debug\netcoreapp3.1\02.PascalTriangle.dll
+D:\SOFTUNI\FUNDAMENTALS C#\07.ArrayMoreExercise\ArrayMoreExercise\02.PascalTriangle\obj\Debug\netcoreapp3.1\02.PascalTriangle.pdb
+D:\SOFTUNI\FUNDAMENTALS C#\07.ArrayMoreExercise\ArrayMoreExercise\02.PascalTriangle\obj\Debug\netcoreapp3.1\02.PascalTriangle.genruntimeconfig.cache

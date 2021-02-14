@@ -1,0 +1,13 @@
+D:\SOFTUNI\FUNDAMENTALS C#\07.ArrayMoreExercise\ArrayMoreExercise\05.LongestIncreasingSubsequence\bin\Debug\netcoreapp3.1\05.LongestIncreasingSubsequence.exe
+D:\SOFTUNI\FUNDAMENTALS C#\07.ArrayMoreExercise\ArrayMoreExercise\05.LongestIncreasingSubsequence\bin\Debug\netcoreapp3.1\05.LongestIncreasingSubsequence.deps.json
+D:\SOFTUNI\FUNDAMENTALS C#\07.ArrayMoreExercise\ArrayMoreExercise\05.LongestIncreasingSubsequence\bin\Debug\netcoreapp3.1\05.LongestIncreasingSubsequence.runtimeconfig.json
+D:\SOFTUNI\FUNDAMENTALS C#\07.ArrayMoreExercise\ArrayMoreExercise\05.LongestIncreasingSubsequence\bin\Debug\netcoreapp3.1\05.LongestIncreasingSubsequence.runtimeconfig.dev.json
+D:\SOFTUNI\FUNDAMENTALS C#\07.ArrayMoreExercise\ArrayMoreExercise\05.LongestIncreasingSubsequence\bin\Debug\netcoreapp3.1\05.LongestIncreasingSubsequence.dll
+D:\SOFTUNI\FUNDAMENTALS C#\07.ArrayMoreExercise\ArrayMoreExercise\05.LongestIncreasingSubsequence\bin\Debug\netcoreapp3.1\05.LongestIncreasingSubsequence.pdb
+D:\SOFTUNI\FUNDAMENTALS C#\07.ArrayMoreExercise\ArrayMoreExercise\05.LongestIncreasingSubsequence\obj\Debug\netcoreapp3.1\05.LongestIncreasingSubsequence.csprojAssemblyReference.cache
+D:\SOFTUNI\FUNDAMENTALS C#\07.ArrayMoreExercise\ArrayMoreExercise\05.LongestIncreasingSubsequence\obj\Debug\netcoreapp3.1\05.LongestIncreasingSubsequence.AssemblyInfoInputs.cache
+D:\SOFTUNI\FUNDAMENTALS C#\07.ArrayMoreExercise\ArrayMoreExercise\05.LongestIncreasingSubsequence\obj\Debug\netcoreapp3.1\05.LongestIncreasingSubsequence.AssemblyInfo.cs
+D:\SOFTUNI\FUNDAMENTALS C#\07.ArrayMoreExercise\ArrayMoreExercise\05.LongestIncreasingSubsequence\obj\Debug\netcoreapp3.1\05.LongestIncreasingSubsequence.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\FUNDAMENTALS C#\07.ArrayMoreExercise\ArrayMoreExercise\05.LongestIncreasingSubsequence\obj\Debug\netcoreapp3.1\05.LongestIncreasingSubsequence.dll
+D:\SOFTUNI\FUNDAMENTALS C#\07.ArrayMoreExercise\ArrayMoreExercise\05.LongestIncreasingSubsequence\obj\Debug\netcoreapp3.1\05.LongestIncreasingSubsequence.pdb
+D:\SOFTUNI\FUNDAMENTALS C#\07.ArrayMoreExercise\ArrayMoreExercise\05.LongestIncreasingSubsequence\obj\Debug\netcoreapp3.1\05.LongestIncreasingSubsequence.genruntimeconfig.cache

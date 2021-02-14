@@ -1,0 +1,13 @@
+D:\SOFTUNI\FUNDAMENTALS C#\07.ArrayMoreExercise\ArrayMoreExercise\04.FoldAndSum\bin\Debug\netcoreapp3.1\04.FoldAndSum.exe
+D:\SOFTUNI\FUNDAMENTALS C#\07.ArrayMoreExercise\ArrayMoreExercise\04.FoldAndSum\bin\Debug\netcoreapp3.1\04.FoldAndSum.deps.json
+D:\SOFTUNI\FUNDAMENTALS C#\07.ArrayMoreExercise\ArrayMoreExercise\04.FoldAndSum\bin\Debug\netcoreapp3.1\04.FoldAndSum.runtimeconfig.json
+D:\SOFTUNI\FUNDAMENTALS C#\07.ArrayMoreExercise\ArrayMoreExercise\04.FoldAndSum\bin\Debug\netcoreapp3.1\04.FoldAndSum.runtimeconfig.dev.json
+D:\SOFTUNI\FUNDAMENTALS C#\07.ArrayMoreExercise\ArrayMoreExercise\04.FoldAndSum\bin\Debug\netcoreapp3.1\04.FoldAndSum.dll
+D:\SOFTUNI\FUNDAMENTALS C#\07.ArrayMoreExercise\ArrayMoreExercise\04.FoldAndSum\bin\Debug\netcoreapp3.1\04.FoldAndSum.pdb
+D:\SOFTUNI\FUNDAMENTALS C#\07.ArrayMoreExercise\ArrayMoreExercise\04.FoldAndSum\obj\Debug\netcoreapp3.1\04.FoldAndSum.csprojAssemblyReference.cache
+D:\SOFTUNI\FUNDAMENTALS C#\07.ArrayMoreExercise\ArrayMoreExercise\04.FoldAndSum\obj\Debug\netcoreapp3.1\04.FoldAndSum.AssemblyInfoInputs.cache
+D:\SOFTUNI\FUNDAMENTALS C#\07.ArrayMoreExercise\ArrayMoreExercise\04.FoldAndSum\obj\Debug\netcoreapp3.1\04.FoldAndSum.AssemblyInfo.cs
+D:\SOFTUNI\FUNDAMENTALS C#\07.ArrayMoreExercise\ArrayMoreExercise\04.FoldAndSum\obj\Debug\netcoreapp3.1\04.FoldAndSum.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\FUNDAMENTALS C#\07.ArrayMoreExercise\ArrayMoreExercise\04.FoldAndSum\obj\Debug\netcoreapp3.1\04.FoldAndSum.dll
+D:\SOFTUNI\FUNDAMENTALS C#\07.ArrayMoreExercise\ArrayMoreExercise\04.FoldAndSum\obj\Debug\netcoreapp3.1\04.FoldAndSum.pdb
+D:\SOFTUNI\FUNDAMENTALS C#\07.ArrayMoreExercise\ArrayMoreExercise\04.FoldAndSum\obj\Debug\netcoreapp3.1\04.FoldAndSum.genruntimeconfig.cache

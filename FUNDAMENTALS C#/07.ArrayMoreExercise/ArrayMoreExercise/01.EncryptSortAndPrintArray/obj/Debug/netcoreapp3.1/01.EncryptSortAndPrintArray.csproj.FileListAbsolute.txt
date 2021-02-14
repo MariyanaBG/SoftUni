@@ -1,0 +1,13 @@
+D:\SOFTUNI\FUNDAMENTALS C#\07.ArrayMoreExercise\ArrayMoreExercise\01.EncryptSortAndPrintArray\bin\Debug\netcoreapp3.1\01.EncryptSortAndPrintArray.exe
+D:\SOFTUNI\FUNDAMENTALS C#\07.ArrayMoreExercise\ArrayMoreExercise\01.EncryptSortAndPrintArray\bin\Debug\netcoreapp3.1\01.EncryptSortAndPrintArray.deps.json
+D:\SOFTUNI\FUNDAMENTALS C#\07.ArrayMoreExercise\ArrayMoreExercise\01.EncryptSortAndPrintArray\bin\Debug\netcoreapp3.1\01.EncryptSortAndPrintArray.runtimeconfig.json
+D:\SOFTUNI\FUNDAMENTALS C#\07.ArrayMoreExercise\ArrayMoreExercise\01.EncryptSortAndPrintArray\bin\Debug\netcoreapp3.1\01.EncryptSortAndPrintArray.runtimeconfig.dev.json
+D:\SOFTUNI\FUNDAMENTALS C#\07.ArrayMoreExercise\ArrayMoreExercise\01.EncryptSortAndPrintArray\bin\Debug\netcoreapp3.1\01.EncryptSortAndPrintArray.dll
+D:\SOFTUNI\FUNDAMENTALS C#\07.ArrayMoreExercise\ArrayMoreExercise\01.EncryptSortAndPrintArray\bin\Debug\netcoreapp3.1\01.EncryptSortAndPrintArray.pdb
+D:\SOFTUNI\FUNDAMENTALS C#\07.ArrayMoreExercise\ArrayMoreExercise\01.EncryptSortAndPrintArray\obj\Debug\netcoreapp3.1\01.EncryptSortAndPrintArray.csprojAssemblyReference.cache
+D:\SOFTUNI\FUNDAMENTALS C#\07.ArrayMoreExercise\ArrayMoreExercise\01.EncryptSortAndPrintArray\obj\Debug\netcoreapp3.1\01.EncryptSortAndPrintArray.AssemblyInfoInputs.cache
+D:\SOFTUNI\FUNDAMENTALS C#\07.ArrayMoreExercise\ArrayMoreExercise\01.EncryptSortAndPrintArray\obj\Debug\netcoreapp3.1\01.EncryptSortAndPrintArray.AssemblyInfo.cs
+D:\SOFTUNI\FUNDAMENTALS C#\07.ArrayMoreExercise\ArrayMoreExercise\01.EncryptSortAndPrintArray\obj\Debug\netcoreapp3.1\01.EncryptSortAndPrintArray.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\FUNDAMENTALS C#\07.ArrayMoreExercise\ArrayMoreExercise\01.EncryptSortAndPrintArray\obj\Debug\netcoreapp3.1\01.EncryptSortAndPrintArray.dll
+D:\SOFTUNI\FUNDAMENTALS C#\07.ArrayMoreExercise\ArrayMoreExercise\01.EncryptSortAndPrintArray\obj\Debug\netcoreapp3.1\01.EncryptSortAndPrintArray.pdb
+D:\SOFTUNI\FUNDAMENTALS C#\07.ArrayMoreExercise\ArrayMoreExercise\01.EncryptSortAndPrintArray\obj\Debug\netcoreapp3.1\01.EncryptSortAndPrintArray.genruntimeconfig.cache
