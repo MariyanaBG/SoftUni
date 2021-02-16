@@ -1,0 +1,12 @@
+D:\SOFTUNI\FUNDAMENTALS C#\08.MethodsLab\MethodsLab\05.Orders\bin\Debug\netcoreapp3.1\05.Orders.exe
+D:\SOFTUNI\FUNDAMENTALS C#\08.MethodsLab\MethodsLab\05.Orders\bin\Debug\netcoreapp3.1\05.Orders.deps.json
+D:\SOFTUNI\FUNDAMENTALS C#\08.MethodsLab\MethodsLab\05.Orders\bin\Debug\netcoreapp3.1\05.Orders.runtimeconfig.json
+D:\SOFTUNI\FUNDAMENTALS C#\08.MethodsLab\MethodsLab\05.Orders\bin\Debug\netcoreapp3.1\05.Orders.runtimeconfig.dev.json
+D:\SOFTUNI\FUNDAMENTALS C#\08.MethodsLab\MethodsLab\05.Orders\bin\Debug\netcoreapp3.1\05.Orders.dll
+D:\SOFTUNI\FUNDAMENTALS C#\08.MethodsLab\MethodsLab\05.Orders\bin\Debug\netcoreapp3.1\05.Orders.pdb
+D:\SOFTUNI\FUNDAMENTALS C#\08.MethodsLab\MethodsLab\05.Orders\obj\Debug\netcoreapp3.1\05.Orders.AssemblyInfoInputs.cache
+D:\SOFTUNI\FUNDAMENTALS C#\08.MethodsLab\MethodsLab\05.Orders\obj\Debug\netcoreapp3.1\05.Orders.AssemblyInfo.cs
+D:\SOFTUNI\FUNDAMENTALS C#\08.MethodsLab\MethodsLab\05.Orders\obj\Debug\netcoreapp3.1\05.Orders.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\FUNDAMENTALS C#\08.MethodsLab\MethodsLab\05.Orders\obj\Debug\netcoreapp3.1\05.Orders.dll
+D:\SOFTUNI\FUNDAMENTALS C#\08.MethodsLab\MethodsLab\05.Orders\obj\Debug\netcoreapp3.1\05.Orders.pdb
+D:\SOFTUNI\FUNDAMENTALS C#\08.MethodsLab\MethodsLab\05.Orders\obj\Debug\netcoreapp3.1\05.Orders.genruntimeconfig.cache

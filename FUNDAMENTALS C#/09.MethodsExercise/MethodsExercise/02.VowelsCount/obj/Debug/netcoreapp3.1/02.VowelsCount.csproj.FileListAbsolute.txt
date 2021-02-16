@@ -1,0 +1,13 @@
+D:\SOFTUNI\FUNDAMENTALS C#\09.MethodsExercise\MethodsExercise\02.VowelsCount\bin\Debug\netcoreapp3.1\02.VowelsCount.exe
+D:\SOFTUNI\FUNDAMENTALS C#\09.MethodsExercise\MethodsExercise\02.VowelsCount\bin\Debug\netcoreapp3.1\02.VowelsCount.deps.json
+D:\SOFTUNI\FUNDAMENTALS C#\09.MethodsExercise\MethodsExercise\02.VowelsCount\bin\Debug\netcoreapp3.1\02.VowelsCount.runtimeconfig.json
+D:\SOFTUNI\FUNDAMENTALS C#\09.MethodsExercise\MethodsExercise\02.VowelsCount\bin\Debug\netcoreapp3.1\02.VowelsCount.runtimeconfig.dev.json
+D:\SOFTUNI\FUNDAMENTALS C#\09.MethodsExercise\MethodsExercise\02.VowelsCount\bin\Debug\netcoreapp3.1\02.VowelsCount.dll
+D:\SOFTUNI\FUNDAMENTALS C#\09.MethodsExercise\MethodsExercise\02.VowelsCount\bin\Debug\netcoreapp3.1\02.VowelsCount.pdb
+D:\SOFTUNI\FUNDAMENTALS C#\09.MethodsExercise\MethodsExercise\02.VowelsCount\obj\Debug\netcoreapp3.1\02.VowelsCount.csprojAssemblyReference.cache
+D:\SOFTUNI\FUNDAMENTALS C#\09.MethodsExercise\MethodsExercise\02.VowelsCount\obj\Debug\netcoreapp3.1\02.VowelsCount.AssemblyInfoInputs.cache
+D:\SOFTUNI\FUNDAMENTALS C#\09.MethodsExercise\MethodsExercise\02.VowelsCount\obj\Debug\netcoreapp3.1\02.VowelsCount.AssemblyInfo.cs
+D:\SOFTUNI\FUNDAMENTALS C#\09.MethodsExercise\MethodsExercise\02.VowelsCount\obj\Debug\netcoreapp3.1\02.VowelsCount.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\FUNDAMENTALS C#\09.MethodsExercise\MethodsExercise\02.VowelsCount\obj\Debug\netcoreapp3.1\02.VowelsCount.dll
+D:\SOFTUNI\FUNDAMENTALS C#\09.MethodsExercise\MethodsExercise\02.VowelsCount\obj\Debug\netcoreapp3.1\02.VowelsCount.pdb
+D:\SOFTUNI\FUNDAMENTALS C#\09.MethodsExercise\MethodsExercise\02.VowelsCount\obj\Debug\netcoreapp3.1\02.VowelsCount.genruntimeconfig.cache

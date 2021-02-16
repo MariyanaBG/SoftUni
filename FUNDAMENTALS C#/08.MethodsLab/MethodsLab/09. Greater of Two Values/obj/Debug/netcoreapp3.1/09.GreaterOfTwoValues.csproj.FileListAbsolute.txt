@@ -1,0 +1,13 @@
+D:\SOFTUNI\FUNDAMENTALS C#\08.MethodsLab\MethodsLab\09. Greater of Two Values\bin\Debug\netcoreapp3.1\09.GreaterOfTwoValues.exe
+D:\SOFTUNI\FUNDAMENTALS C#\08.MethodsLab\MethodsLab\09. Greater of Two Values\bin\Debug\netcoreapp3.1\09.GreaterOfTwoValues.deps.json
+D:\SOFTUNI\FUNDAMENTALS C#\08.MethodsLab\MethodsLab\09. Greater of Two Values\bin\Debug\netcoreapp3.1\09.GreaterOfTwoValues.runtimeconfig.json
+D:\SOFTUNI\FUNDAMENTALS C#\08.MethodsLab\MethodsLab\09. Greater of Two Values\bin\Debug\netcoreapp3.1\09.GreaterOfTwoValues.runtimeconfig.dev.json
+D:\SOFTUNI\FUNDAMENTALS C#\08.MethodsLab\MethodsLab\09. Greater of Two Values\bin\Debug\netcoreapp3.1\09.GreaterOfTwoValues.dll
+D:\SOFTUNI\FUNDAMENTALS C#\08.MethodsLab\MethodsLab\09. Greater of Two Values\bin\Debug\netcoreapp3.1\09.GreaterOfTwoValues.pdb
+D:\SOFTUNI\FUNDAMENTALS C#\08.MethodsLab\MethodsLab\09. Greater of Two Values\obj\Debug\netcoreapp3.1\09.GreaterOfTwoValues.csprojAssemblyReference.cache
+D:\SOFTUNI\FUNDAMENTALS C#\08.MethodsLab\MethodsLab\09. Greater of Two Values\obj\Debug\netcoreapp3.1\09.GreaterOfTwoValues.AssemblyInfoInputs.cache
+D:\SOFTUNI\FUNDAMENTALS C#\08.MethodsLab\MethodsLab\09. Greater of Two Values\obj\Debug\netcoreapp3.1\09.GreaterOfTwoValues.AssemblyInfo.cs
+D:\SOFTUNI\FUNDAMENTALS C#\08.MethodsLab\MethodsLab\09. Greater of Two Values\obj\Debug\netcoreapp3.1\09.GreaterOfTwoValues.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\FUNDAMENTALS C#\08.MethodsLab\MethodsLab\09. Greater of Two Values\obj\Debug\netcoreapp3.1\09.GreaterOfTwoValues.dll
+D:\SOFTUNI\FUNDAMENTALS C#\08.MethodsLab\MethodsLab\09. Greater of Two Values\obj\Debug\netcoreapp3.1\09.GreaterOfTwoValues.pdb
+D:\SOFTUNI\FUNDAMENTALS C#\08.MethodsLab\MethodsLab\09. Greater of Two Values\obj\Debug\netcoreapp3.1\09.GreaterOfTwoValues.genruntimeconfig.cache

@@ -9,7 +9,7 @@ namespace _05.LongestIncreasingSubsequence
         {
             int[] numbers = Console.ReadLine().Split(' ').Select(int.Parse).ToArray();
             int[] lenght = new int[numbers.Length];
-            for (int i = 0; i < lenght.Length ; i++)
+            for (int i = 0; i < lenght.Length; i++)
             {
                 lenght[i] = 1;
             }
@@ -44,7 +44,7 @@ namespace _05.LongestIncreasingSubsequence
                     }
                 }
             }
-            
+
             int longestSequence = 1;
             int lastIndex = numbers.Length;
             for (int i = 0; i < lenght.Length; i++)
@@ -68,8 +68,8 @@ namespace _05.LongestIncreasingSubsequence
             {
                 result[0] = numbers[0];
             }
-            
-            Console.WriteLine(String.Join(' ',result ));
+
+            Console.WriteLine(String.Join(' ', result));
         }
     }
 }

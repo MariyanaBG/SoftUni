@@ -1,0 +1,13 @@
+D:\SOFTUNI\FUNDAMENTALS C#\09.MethodsExercise\MethodsExercise\01.SmallestOfThreeNumbers\bin\Debug\netcoreapp3.1\01.SmallestOfThreeNumbers.exe
+D:\SOFTUNI\FUNDAMENTALS C#\09.MethodsExercise\MethodsExercise\01.SmallestOfThreeNumbers\bin\Debug\netcoreapp3.1\01.SmallestOfThreeNumbers.deps.json
+D:\SOFTUNI\FUNDAMENTALS C#\09.MethodsExercise\MethodsExercise\01.SmallestOfThreeNumbers\bin\Debug\netcoreapp3.1\01.SmallestOfThreeNumbers.runtimeconfig.json
+D:\SOFTUNI\FUNDAMENTALS C#\09.MethodsExercise\MethodsExercise\01.SmallestOfThreeNumbers\bin\Debug\netcoreapp3.1\01.SmallestOfThreeNumbers.runtimeconfig.dev.json
+D:\SOFTUNI\FUNDAMENTALS C#\09.MethodsExercise\MethodsExercise\01.SmallestOfThreeNumbers\bin\Debug\netcoreapp3.1\01.SmallestOfThreeNumbers.dll
+D:\SOFTUNI\FUNDAMENTALS C#\09.MethodsExercise\MethodsExercise\01.SmallestOfThreeNumbers\bin\Debug\netcoreapp3.1\01.SmallestOfThreeNumbers.pdb
+D:\SOFTUNI\FUNDAMENTALS C#\09.MethodsExercise\MethodsExercise\01.SmallestOfThreeNumbers\obj\Debug\netcoreapp3.1\01.SmallestOfThreeNumbers.csprojAssemblyReference.cache
+D:\SOFTUNI\FUNDAMENTALS C#\09.MethodsExercise\MethodsExercise\01.SmallestOfThreeNumbers\obj\Debug\netcoreapp3.1\01.SmallestOfThreeNumbers.AssemblyInfoInputs.cache
+D:\SOFTUNI\FUNDAMENTALS C#\09.MethodsExercise\MethodsExercise\01.SmallestOfThreeNumbers\obj\Debug\netcoreapp3.1\01.SmallestOfThreeNumbers.AssemblyInfo.cs
+D:\SOFTUNI\FUNDAMENTALS C#\09.MethodsExercise\MethodsExercise\01.SmallestOfThreeNumbers\obj\Debug\netcoreapp3.1\01.SmallestOfThreeNumbers.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\FUNDAMENTALS C#\09.MethodsExercise\MethodsExercise\01.SmallestOfThreeNumbers\obj\Debug\netcoreapp3.1\01.SmallestOfThreeNumbers.dll
+D:\SOFTUNI\FUNDAMENTALS C#\09.MethodsExercise\MethodsExercise\01.SmallestOfThreeNumbers\obj\Debug\netcoreapp3.1\01.SmallestOfThreeNumbers.pdb
+D:\SOFTUNI\FUNDAMENTALS C#\09.MethodsExercise\MethodsExercise\01.SmallestOfThreeNumbers\obj\Debug\netcoreapp3.1\01.SmallestOfThreeNumbers.genruntimeconfig.cache
