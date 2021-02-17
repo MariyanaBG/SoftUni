@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "MCrGwbc7Glh5jcu2mAHHJ5+bGtaQG0minBjtc1DOGieK/K46VRCHi2va+0wzyiZwh/jqH0JKc6CElIvVvyzfmg==",
+  "success": true,
+  "projectFilePath": "D:\\SOFTUNI\\FUNDAMENTALS C#\\11.ListLab\\ListLab\\01.SumAdjacentEqualNumbers\\01.SumAdjacentEqualNumbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mariqna\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Mariqna\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\Mariqna\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\Mariqna\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

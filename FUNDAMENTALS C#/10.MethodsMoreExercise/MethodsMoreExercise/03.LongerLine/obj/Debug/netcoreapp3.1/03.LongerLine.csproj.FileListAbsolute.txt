@@ -1,0 +1,13 @@
+D:\SOFTUNI\FUNDAMENTALS C#\10.MethodsMoreExercise\MethodsMoreExercise\03.LongerLine\bin\Debug\netcoreapp3.1\03.LongerLine.exe
+D:\SOFTUNI\FUNDAMENTALS C#\10.MethodsMoreExercise\MethodsMoreExercise\03.LongerLine\bin\Debug\netcoreapp3.1\03.LongerLine.deps.json
+D:\SOFTUNI\FUNDAMENTALS C#\10.MethodsMoreExercise\MethodsMoreExercise\03.LongerLine\bin\Debug\netcoreapp3.1\03.LongerLine.runtimeconfig.json
+D:\SOFTUNI\FUNDAMENTALS C#\10.MethodsMoreExercise\MethodsMoreExercise\03.LongerLine\bin\Debug\netcoreapp3.1\03.LongerLine.runtimeconfig.dev.json
+D:\SOFTUNI\FUNDAMENTALS C#\10.MethodsMoreExercise\MethodsMoreExercise\03.LongerLine\bin\Debug\netcoreapp3.1\03.LongerLine.dll
+D:\SOFTUNI\FUNDAMENTALS C#\10.MethodsMoreExercise\MethodsMoreExercise\03.LongerLine\bin\Debug\netcoreapp3.1\03.LongerLine.pdb
+D:\SOFTUNI\FUNDAMENTALS C#\10.MethodsMoreExercise\MethodsMoreExercise\03.LongerLine\obj\Debug\netcoreapp3.1\03.LongerLine.csprojAssemblyReference.cache
+D:\SOFTUNI\FUNDAMENTALS C#\10.MethodsMoreExercise\MethodsMoreExercise\03.LongerLine\obj\Debug\netcoreapp3.1\03.LongerLine.AssemblyInfoInputs.cache
+D:\SOFTUNI\FUNDAMENTALS C#\10.MethodsMoreExercise\MethodsMoreExercise\03.LongerLine\obj\Debug\netcoreapp3.1\03.LongerLine.AssemblyInfo.cs
+D:\SOFTUNI\FUNDAMENTALS C#\10.MethodsMoreExercise\MethodsMoreExercise\03.LongerLine\obj\Debug\netcoreapp3.1\03.LongerLine.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\FUNDAMENTALS C#\10.MethodsMoreExercise\MethodsMoreExercise\03.LongerLine\obj\Debug\netcoreapp3.1\03.LongerLine.dll
+D:\SOFTUNI\FUNDAMENTALS C#\10.MethodsMoreExercise\MethodsMoreExercise\03.LongerLine\obj\Debug\netcoreapp3.1\03.LongerLine.pdb
+D:\SOFTUNI\FUNDAMENTALS C#\10.MethodsMoreExercise\MethodsMoreExercise\03.LongerLine\obj\Debug\netcoreapp3.1\03.LongerLine.genruntimeconfig.cache

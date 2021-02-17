@@ -1,0 +1,12 @@
+D:\SOFTUNI\FUNDAMENTALS C#\10.MethodsMoreExercise\MethodsMoreExercise\05.MultiplicationSign\bin\Debug\netcoreapp3.1\05.MultiplicationSign.exe
+D:\SOFTUNI\FUNDAMENTALS C#\10.MethodsMoreExercise\MethodsMoreExercise\05.MultiplicationSign\bin\Debug\netcoreapp3.1\05.MultiplicationSign.deps.json
+D:\SOFTUNI\FUNDAMENTALS C#\10.MethodsMoreExercise\MethodsMoreExercise\05.MultiplicationSign\bin\Debug\netcoreapp3.1\05.MultiplicationSign.runtimeconfig.json
+D:\SOFTUNI\FUNDAMENTALS C#\10.MethodsMoreExercise\MethodsMoreExercise\05.MultiplicationSign\bin\Debug\netcoreapp3.1\05.MultiplicationSign.runtimeconfig.dev.json
+D:\SOFTUNI\FUNDAMENTALS C#\10.MethodsMoreExercise\MethodsMoreExercise\05.MultiplicationSign\bin\Debug\netcoreapp3.1\05.MultiplicationSign.dll
+D:\SOFTUNI\FUNDAMENTALS C#\10.MethodsMoreExercise\MethodsMoreExercise\05.MultiplicationSign\bin\Debug\netcoreapp3.1\05.MultiplicationSign.pdb
+D:\SOFTUNI\FUNDAMENTALS C#\10.MethodsMoreExercise\MethodsMoreExercise\05.MultiplicationSign\obj\Debug\netcoreapp3.1\05.MultiplicationSign.AssemblyInfoInputs.cache
+D:\SOFTUNI\FUNDAMENTALS C#\10.MethodsMoreExercise\MethodsMoreExercise\05.MultiplicationSign\obj\Debug\netcoreapp3.1\05.MultiplicationSign.AssemblyInfo.cs
+D:\SOFTUNI\FUNDAMENTALS C#\10.MethodsMoreExercise\MethodsMoreExercise\05.MultiplicationSign\obj\Debug\netcoreapp3.1\05.MultiplicationSign.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\FUNDAMENTALS C#\10.MethodsMoreExercise\MethodsMoreExercise\05.MultiplicationSign\obj\Debug\netcoreapp3.1\05.MultiplicationSign.dll
+D:\SOFTUNI\FUNDAMENTALS C#\10.MethodsMoreExercise\MethodsMoreExercise\05.MultiplicationSign\obj\Debug\netcoreapp3.1\05.MultiplicationSign.pdb
+D:\SOFTUNI\FUNDAMENTALS C#\10.MethodsMoreExercise\MethodsMoreExercise\05.MultiplicationSign\obj\Debug\netcoreapp3.1\05.MultiplicationSign.genruntimeconfig.cache
