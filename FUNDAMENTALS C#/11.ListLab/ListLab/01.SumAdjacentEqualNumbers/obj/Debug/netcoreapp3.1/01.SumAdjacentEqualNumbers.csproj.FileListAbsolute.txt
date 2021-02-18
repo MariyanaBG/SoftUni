@@ -4,7 +4,6 @@ D:\SOFTUNI\FUNDAMENTALS C#\11.ListLab\ListLab\01.SumAdjacentEqualNumbers\bin\Deb
 D:\SOFTUNI\FUNDAMENTALS C#\11.ListLab\ListLab\01.SumAdjacentEqualNumbers\bin\Debug\netcoreapp3.1\01.SumAdjacentEqualNumbers.runtimeconfig.dev.json
 D:\SOFTUNI\FUNDAMENTALS C#\11.ListLab\ListLab\01.SumAdjacentEqualNumbers\bin\Debug\netcoreapp3.1\01.SumAdjacentEqualNumbers.dll
 D:\SOFTUNI\FUNDAMENTALS C#\11.ListLab\ListLab\01.SumAdjacentEqualNumbers\bin\Debug\netcoreapp3.1\01.SumAdjacentEqualNumbers.pdb
-D:\SOFTUNI\FUNDAMENTALS C#\11.ListLab\ListLab\01.SumAdjacentEqualNumbers\obj\Debug\netcoreapp3.1\01.SumAdjacentEqualNumbers.csprojAssemblyReference.cache
 D:\SOFTUNI\FUNDAMENTALS C#\11.ListLab\ListLab\01.SumAdjacentEqualNumbers\obj\Debug\netcoreapp3.1\01.SumAdjacentEqualNumbers.AssemblyInfoInputs.cache
 D:\SOFTUNI\FUNDAMENTALS C#\11.ListLab\ListLab\01.SumAdjacentEqualNumbers\obj\Debug\netcoreapp3.1\01.SumAdjacentEqualNumbers.AssemblyInfo.cs
 D:\SOFTUNI\FUNDAMENTALS C#\11.ListLab\ListLab\01.SumAdjacentEqualNumbers\obj\Debug\netcoreapp3.1\01.SumAdjacentEqualNumbers.csproj.CoreCompileInputs.cache

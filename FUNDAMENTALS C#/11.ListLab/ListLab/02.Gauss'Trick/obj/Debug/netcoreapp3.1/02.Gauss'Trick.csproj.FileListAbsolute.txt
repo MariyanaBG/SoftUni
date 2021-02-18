@@ -4,7 +4,6 @@ D:\SOFTUNI\FUNDAMENTALS C#\11.ListLab\ListLab\02.Gauss'Trick\bin\Debug\netcoreap
 D:\SOFTUNI\FUNDAMENTALS C#\11.ListLab\ListLab\02.Gauss'Trick\bin\Debug\netcoreapp3.1\02.Gauss'Trick.runtimeconfig.dev.json
 D:\SOFTUNI\FUNDAMENTALS C#\11.ListLab\ListLab\02.Gauss'Trick\bin\Debug\netcoreapp3.1\02.Gauss'Trick.dll
 D:\SOFTUNI\FUNDAMENTALS C#\11.ListLab\ListLab\02.Gauss'Trick\bin\Debug\netcoreapp3.1\02.Gauss'Trick.pdb
-D:\SOFTUNI\FUNDAMENTALS C#\11.ListLab\ListLab\02.Gauss'Trick\obj\Debug\netcoreapp3.1\02.Gauss'Trick.csprojAssemblyReference.cache
 D:\SOFTUNI\FUNDAMENTALS C#\11.ListLab\ListLab\02.Gauss'Trick\obj\Debug\netcoreapp3.1\02.Gauss'Trick.AssemblyInfoInputs.cache
 D:\SOFTUNI\FUNDAMENTALS C#\11.ListLab\ListLab\02.Gauss'Trick\obj\Debug\netcoreapp3.1\02.Gauss'Trick.AssemblyInfo.cs
 D:\SOFTUNI\FUNDAMENTALS C#\11.ListLab\ListLab\02.Gauss'Trick\obj\Debug\netcoreapp3.1\02.Gauss'Trick.csproj.CoreCompileInputs.cache
