@@ -1,0 +1,13 @@
+D:\SOFTUNI\FUNDAMENTALS C#\11.ListLab\ListLab\04.ListOfProducts\bin\Debug\netcoreapp3.1\04.ListOfProducts.exe
+D:\SOFTUNI\FUNDAMENTALS C#\11.ListLab\ListLab\04.ListOfProducts\bin\Debug\netcoreapp3.1\04.ListOfProducts.deps.json
+D:\SOFTUNI\FUNDAMENTALS C#\11.ListLab\ListLab\04.ListOfProducts\bin\Debug\netcoreapp3.1\04.ListOfProducts.runtimeconfig.json
+D:\SOFTUNI\FUNDAMENTALS C#\11.ListLab\ListLab\04.ListOfProducts\bin\Debug\netcoreapp3.1\04.ListOfProducts.runtimeconfig.dev.json
+D:\SOFTUNI\FUNDAMENTALS C#\11.ListLab\ListLab\04.ListOfProducts\bin\Debug\netcoreapp3.1\04.ListOfProducts.dll
+D:\SOFTUNI\FUNDAMENTALS C#\11.ListLab\ListLab\04.ListOfProducts\bin\Debug\netcoreapp3.1\04.ListOfProducts.pdb
+D:\SOFTUNI\FUNDAMENTALS C#\11.ListLab\ListLab\04.ListOfProducts\obj\Debug\netcoreapp3.1\04.ListOfProducts.AssemblyInfoInputs.cache
+D:\SOFTUNI\FUNDAMENTALS C#\11.ListLab\ListLab\04.ListOfProducts\obj\Debug\netcoreapp3.1\04.ListOfProducts.AssemblyInfo.cs
+D:\SOFTUNI\FUNDAMENTALS C#\11.ListLab\ListLab\04.ListOfProducts\obj\Debug\netcoreapp3.1\04.ListOfProducts.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\FUNDAMENTALS C#\11.ListLab\ListLab\04.ListOfProducts\obj\Debug\netcoreapp3.1\04.ListOfProducts.dll
+D:\SOFTUNI\FUNDAMENTALS C#\11.ListLab\ListLab\04.ListOfProducts\obj\Debug\netcoreapp3.1\04.ListOfProducts.pdb
+D:\SOFTUNI\FUNDAMENTALS C#\11.ListLab\ListLab\04.ListOfProducts\obj\Debug\netcoreapp3.1\04.ListOfProducts.genruntimeconfig.cache
+D:\SOFTUNI\FUNDAMENTALS C#\11.ListLab\ListLab\04.ListOfProducts\obj\Debug\netcoreapp3.1\04.ListOfProducts.csprojAssemblyReference.cache

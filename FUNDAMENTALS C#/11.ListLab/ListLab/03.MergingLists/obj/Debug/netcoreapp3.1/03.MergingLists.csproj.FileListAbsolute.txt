@@ -1,0 +1,13 @@
+D:\SOFTUNI\FUNDAMENTALS C#\11.ListLab\ListLab\03.MergingLists\obj\Debug\netcoreapp3.1\03.MergingLists.csprojAssemblyReference.cache
+D:\SOFTUNI\FUNDAMENTALS C#\11.ListLab\ListLab\03.MergingLists\obj\Debug\netcoreapp3.1\03.MergingLists.AssemblyInfoInputs.cache
+D:\SOFTUNI\FUNDAMENTALS C#\11.ListLab\ListLab\03.MergingLists\obj\Debug\netcoreapp3.1\03.MergingLists.AssemblyInfo.cs
+D:\SOFTUNI\FUNDAMENTALS C#\11.ListLab\ListLab\03.MergingLists\obj\Debug\netcoreapp3.1\03.MergingLists.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\FUNDAMENTALS C#\11.ListLab\ListLab\03.MergingLists\bin\Debug\netcoreapp3.1\03.MergingLists.exe
+D:\SOFTUNI\FUNDAMENTALS C#\11.ListLab\ListLab\03.MergingLists\bin\Debug\netcoreapp3.1\03.MergingLists.deps.json
+D:\SOFTUNI\FUNDAMENTALS C#\11.ListLab\ListLab\03.MergingLists\bin\Debug\netcoreapp3.1\03.MergingLists.runtimeconfig.json
+D:\SOFTUNI\FUNDAMENTALS C#\11.ListLab\ListLab\03.MergingLists\bin\Debug\netcoreapp3.1\03.MergingLists.runtimeconfig.dev.json
+D:\SOFTUNI\FUNDAMENTALS C#\11.ListLab\ListLab\03.MergingLists\bin\Debug\netcoreapp3.1\03.MergingLists.dll
+D:\SOFTUNI\FUNDAMENTALS C#\11.ListLab\ListLab\03.MergingLists\bin\Debug\netcoreapp3.1\03.MergingLists.pdb
+D:\SOFTUNI\FUNDAMENTALS C#\11.ListLab\ListLab\03.MergingLists\obj\Debug\netcoreapp3.1\03.MergingLists.dll
+D:\SOFTUNI\FUNDAMENTALS C#\11.ListLab\ListLab\03.MergingLists\obj\Debug\netcoreapp3.1\03.MergingLists.pdb
+D:\SOFTUNI\FUNDAMENTALS C#\11.ListLab\ListLab\03.MergingLists\obj\Debug\netcoreapp3.1\03.MergingLists.genruntimeconfig.cache
