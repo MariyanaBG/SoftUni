@@ -1,0 +1,13 @@
+D:\SOFTUNI\FUNDAMENTALS C#\13.ListsMoreExercises\ListsMoreExercises\01.Messaging\bin\Debug\netcoreapp3.1\01.Messaging.exe
+D:\SOFTUNI\FUNDAMENTALS C#\13.ListsMoreExercises\ListsMoreExercises\01.Messaging\bin\Debug\netcoreapp3.1\01.Messaging.deps.json
+D:\SOFTUNI\FUNDAMENTALS C#\13.ListsMoreExercises\ListsMoreExercises\01.Messaging\bin\Debug\netcoreapp3.1\01.Messaging.runtimeconfig.json
+D:\SOFTUNI\FUNDAMENTALS C#\13.ListsMoreExercises\ListsMoreExercises\01.Messaging\bin\Debug\netcoreapp3.1\01.Messaging.runtimeconfig.dev.json
+D:\SOFTUNI\FUNDAMENTALS C#\13.ListsMoreExercises\ListsMoreExercises\01.Messaging\bin\Debug\netcoreapp3.1\01.Messaging.dll
+D:\SOFTUNI\FUNDAMENTALS C#\13.ListsMoreExercises\ListsMoreExercises\01.Messaging\bin\Debug\netcoreapp3.1\01.Messaging.pdb
+D:\SOFTUNI\FUNDAMENTALS C#\13.ListsMoreExercises\ListsMoreExercises\01.Messaging\obj\Debug\netcoreapp3.1\01.Messaging.csprojAssemblyReference.cache
+D:\SOFTUNI\FUNDAMENTALS C#\13.ListsMoreExercises\ListsMoreExercises\01.Messaging\obj\Debug\netcoreapp3.1\01.Messaging.AssemblyInfoInputs.cache
+D:\SOFTUNI\FUNDAMENTALS C#\13.ListsMoreExercises\ListsMoreExercises\01.Messaging\obj\Debug\netcoreapp3.1\01.Messaging.AssemblyInfo.cs
+D:\SOFTUNI\FUNDAMENTALS C#\13.ListsMoreExercises\ListsMoreExercises\01.Messaging\obj\Debug\netcoreapp3.1\01.Messaging.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\FUNDAMENTALS C#\13.ListsMoreExercises\ListsMoreExercises\01.Messaging\obj\Debug\netcoreapp3.1\01.Messaging.dll
+D:\SOFTUNI\FUNDAMENTALS C#\13.ListsMoreExercises\ListsMoreExercises\01.Messaging\obj\Debug\netcoreapp3.1\01.Messaging.pdb
+D:\SOFTUNI\FUNDAMENTALS C#\13.ListsMoreExercises\ListsMoreExercises\01.Messaging\obj\Debug\netcoreapp3.1\01.Messaging.genruntimeconfig.cache

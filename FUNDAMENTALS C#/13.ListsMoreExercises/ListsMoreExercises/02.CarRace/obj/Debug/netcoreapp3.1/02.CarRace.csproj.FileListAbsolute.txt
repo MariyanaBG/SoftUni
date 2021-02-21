@@ -1,0 +1,13 @@
+D:\SOFTUNI\FUNDAMENTALS C#\13.ListsMoreExercises\ListsMoreExercises\02.CarRace\bin\Debug\netcoreapp3.1\02.CarRace.exe
+D:\SOFTUNI\FUNDAMENTALS C#\13.ListsMoreExercises\ListsMoreExercises\02.CarRace\bin\Debug\netcoreapp3.1\02.CarRace.deps.json
+D:\SOFTUNI\FUNDAMENTALS C#\13.ListsMoreExercises\ListsMoreExercises\02.CarRace\bin\Debug\netcoreapp3.1\02.CarRace.runtimeconfig.json
+D:\SOFTUNI\FUNDAMENTALS C#\13.ListsMoreExercises\ListsMoreExercises\02.CarRace\bin\Debug\netcoreapp3.1\02.CarRace.runtimeconfig.dev.json
+D:\SOFTUNI\FUNDAMENTALS C#\13.ListsMoreExercises\ListsMoreExercises\02.CarRace\bin\Debug\netcoreapp3.1\02.CarRace.dll
+D:\SOFTUNI\FUNDAMENTALS C#\13.ListsMoreExercises\ListsMoreExercises\02.CarRace\bin\Debug\netcoreapp3.1\02.CarRace.pdb
+D:\SOFTUNI\FUNDAMENTALS C#\13.ListsMoreExercises\ListsMoreExercises\02.CarRace\obj\Debug\netcoreapp3.1\02.CarRace.csprojAssemblyReference.cache
+D:\SOFTUNI\FUNDAMENTALS C#\13.ListsMoreExercises\ListsMoreExercises\02.CarRace\obj\Debug\netcoreapp3.1\02.CarRace.AssemblyInfoInputs.cache
+D:\SOFTUNI\FUNDAMENTALS C#\13.ListsMoreExercises\ListsMoreExercises\02.CarRace\obj\Debug\netcoreapp3.1\02.CarRace.AssemblyInfo.cs
+D:\SOFTUNI\FUNDAMENTALS C#\13.ListsMoreExercises\ListsMoreExercises\02.CarRace\obj\Debug\netcoreapp3.1\02.CarRace.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\FUNDAMENTALS C#\13.ListsMoreExercises\ListsMoreExercises\02.CarRace\obj\Debug\netcoreapp3.1\02.CarRace.dll
+D:\SOFTUNI\FUNDAMENTALS C#\13.ListsMoreExercises\ListsMoreExercises\02.CarRace\obj\Debug\netcoreapp3.1\02.CarRace.pdb
+D:\SOFTUNI\FUNDAMENTALS C#\13.ListsMoreExercises\ListsMoreExercises\02.CarRace\obj\Debug\netcoreapp3.1\02.CarRace.genruntimeconfig.cache
