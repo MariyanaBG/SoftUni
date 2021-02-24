@@ -1,0 +1,13 @@
+D:\SOFTUNI\FUNDAMENTALS C#\13.ListsMoreExercises\ListsMoreExercises\05.DrumSet\bin\Debug\netcoreapp3.1\05.DrumSet.exe
+D:\SOFTUNI\FUNDAMENTALS C#\13.ListsMoreExercises\ListsMoreExercises\05.DrumSet\bin\Debug\netcoreapp3.1\05.DrumSet.deps.json
+D:\SOFTUNI\FUNDAMENTALS C#\13.ListsMoreExercises\ListsMoreExercises\05.DrumSet\bin\Debug\netcoreapp3.1\05.DrumSet.runtimeconfig.json
+D:\SOFTUNI\FUNDAMENTALS C#\13.ListsMoreExercises\ListsMoreExercises\05.DrumSet\bin\Debug\netcoreapp3.1\05.DrumSet.runtimeconfig.dev.json
+D:\SOFTUNI\FUNDAMENTALS C#\13.ListsMoreExercises\ListsMoreExercises\05.DrumSet\bin\Debug\netcoreapp3.1\05.DrumSet.dll
+D:\SOFTUNI\FUNDAMENTALS C#\13.ListsMoreExercises\ListsMoreExercises\05.DrumSet\bin\Debug\netcoreapp3.1\05.DrumSet.pdb
+D:\SOFTUNI\FUNDAMENTALS C#\13.ListsMoreExercises\ListsMoreExercises\05.DrumSet\obj\Debug\netcoreapp3.1\05.DrumSet.csprojAssemblyReference.cache
+D:\SOFTUNI\FUNDAMENTALS C#\13.ListsMoreExercises\ListsMoreExercises\05.DrumSet\obj\Debug\netcoreapp3.1\05.DrumSet.AssemblyInfoInputs.cache
+D:\SOFTUNI\FUNDAMENTALS C#\13.ListsMoreExercises\ListsMoreExercises\05.DrumSet\obj\Debug\netcoreapp3.1\05.DrumSet.AssemblyInfo.cs
+D:\SOFTUNI\FUNDAMENTALS C#\13.ListsMoreExercises\ListsMoreExercises\05.DrumSet\obj\Debug\netcoreapp3.1\05.DrumSet.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\FUNDAMENTALS C#\13.ListsMoreExercises\ListsMoreExercises\05.DrumSet\obj\Debug\netcoreapp3.1\05.DrumSet.dll
+D:\SOFTUNI\FUNDAMENTALS C#\13.ListsMoreExercises\ListsMoreExercises\05.DrumSet\obj\Debug\netcoreapp3.1\05.DrumSet.pdb
+D:\SOFTUNI\FUNDAMENTALS C#\13.ListsMoreExercises\ListsMoreExercises\05.DrumSet\obj\Debug\netcoreapp3.1\05.DrumSet.genruntimeconfig.cache

@@ -46,11 +46,11 @@ namespace _04.MixedUpLists
         private static List<int> WhenSecondIsLonger(List<int> first, List<int> second)
         {
             List<int> result = new List<int>(first.Count + second.Count);
-            int minValue = Math.Min(second[second.Count - 2], second[second.Count - 1]);
-            int maxValue = Math.Max(second[second.Count - 2], second[second.Count - 1]);
+            int minValue = Math.Min(second[0], second[1]);
+            int maxValue = Math.Max(second[0], second[1]);
 
 
-            for (int i = 0, j = first.Count - 1; i < first.Count; i++, j--)
+            for (int i = 0, j = second.Count - 1; i < first.Count; i++, j--)
             {
                 if (first[i] > minValue && first[i] < maxValue)
                 {

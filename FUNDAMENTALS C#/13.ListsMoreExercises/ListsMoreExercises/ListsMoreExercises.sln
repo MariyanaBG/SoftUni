@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.TakeOrSkipRope", "03.Tak
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.MixedUpLists", "04.MixedUpLists\04.MixedUpLists.csproj", "{CA18EEFD-5295-40AC-A6B9-001707C89E96}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.DrumSet", "05.DrumSet\05.DrumSet.csproj", "{B00C7191-CAB0-4AFD-B5C0-0960831F7810}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{CA18EEFD-5295-40AC-A6B9-001707C89E96}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CA18EEFD-5295-40AC-A6B9-001707C89E96}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CA18EEFD-5295-40AC-A6B9-001707C89E96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B00C7191-CAB0-4AFD-B5C0-0960831F7810}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B00C7191-CAB0-4AFD-B5C0-0960831F7810}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B00C7191-CAB0-4AFD-B5C0-0960831F7810}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B00C7191-CAB0-4AFD-B5C0-0960831F7810}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
